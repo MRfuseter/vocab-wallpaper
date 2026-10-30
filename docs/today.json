@@ -1,7 +1,7 @@
 {
   "day": 3,
   "totalDays": 298,
-  "generatedAt": "2026-10-30T15:14:36.177Z",
+  "generatedAt": "2026-10-30T15:31:46.188Z",
   "words": [
     {
       "day": 3,
@@ -113,7 +113,7 @@
       "level": "A1",
       "ipa": "/wɪtʃ/",
       "th": "อันไหน, ซึ่ง",
-      "done": false
+      "done": true
     }
   ]
 }

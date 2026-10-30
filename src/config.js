@@ -15,5 +15,7 @@ export const config = {
   width: 1320,
   height: 2868,
 
+  background: process.env.BACKGROUND || 'assets/background.jpg', // ภาพพื้นหลัง (JPG)
+
   outDir: process.env.OUT_DIR || 'docs',
 };

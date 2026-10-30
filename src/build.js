@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { chromium } from 'playwright';
 import { config } from './config.js';
@@ -38,12 +38,15 @@ async function main() {
   const totalDays = days[days.length - 1].day;
   console.log(`Day ${day}/${totalDays}: ${words.map((w) => w.en).join(', ')}`);
 
+  // ภาพพื้นหลังต้องฝังเป็น data URL เพราะ page.setContent โหลดไฟล์ในเครื่องไม่ได้
+  const background = `data:image/jpeg;base64,${(await readFile(config.background)).toString('base64')}`;
+
   await mkdir(config.outDir, { recursive: true });
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: config.width, height: config.height }, deviceScaleFactor: 1 });
 
   for (const mode of ['full', 'quiz']) {
-    await page.setContent(renderHtml({ day, totalDays, words, review, mode }), { waitUntil: 'networkidle' });
+    await page.setContent(renderHtml({ day, totalDays, words, review, mode, background }), { waitUntil: 'networkidle' });
     await page.evaluate(() => document.fonts.ready);
     const scale = await page.evaluate(() => window.fit());
     const file = join(config.outDir, mode === 'full' ? 'today.png' : 'quiz.png');
