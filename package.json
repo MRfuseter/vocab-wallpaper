@@ -1,0 +1,13 @@
+{
+  "name": "vocab-wallpaper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "สร้าง wallpaper iPhone คำศัพท์ภาษาอังกฤษวันละ 10 คำจาก Google Sheet",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "dependencies": {
+    "playwright": "1.49.1"
+  }
+}

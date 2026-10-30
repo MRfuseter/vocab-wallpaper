@@ -1,0 +1,48 @@
+name: Daily vocab wallpaper
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 05:00 เวลาไทย (UTC+7)
+    - cron: '30 22 * * *' # 05:30 รันซ้ำเผื่อรอบแรกพลาด (ถ้าภาพเหมือนเดิมจะไม่ commit)
+  workflow_dispatch:
+    inputs:
+      day:
+        description: 'บังคับวัน (เว้นว่าง = อัตโนมัติ)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wallpaper
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+
+      - name: Render wallpapers
+        run: npm run build
+        env:
+          DAY: ${{ inputs.day }}
+          # START_DATE: '2026-10-28'  # วันที่ของ Day 1
+          # DAY_MODE: unchecked       # ถ้าอยากให้เลื่อนวันเฉพาะตอนติ๊ก "ท่องแล้ว"
+
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet && echo "ไม่มีอะไรเปลี่ยน" && exit 0
+          git commit -m "wallpaper: $(jq -r '"Day \(.day)/\(.totalDays)"' docs/today.json)"
+          git push
