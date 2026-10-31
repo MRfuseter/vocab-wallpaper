@@ -1,98 +1,110 @@
 {
-  "day": 4,
+  "day": 5,
   "totalDays": 298,
-  "generatedAt": "2026-10-31T01:45:23.210Z",
+  "generatedAt": "2026-10-31T20:28:11.478Z",
   "words": [
     {
-      "day": 4,
-      "no": 31,
-      "en": "exciting",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ɪkˈsaɪtɪŋ/",
-      "th": "น่าตื่นเต้น",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 32,
-      "en": "hello",
-      "pos": "excl., n.",
-      "level": "A1",
-      "ipa": "/həˈləʊ/",
-      "th": "สวัสดี",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 33,
-      "en": "out",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/aʊt/",
-      "th": "ออก, ข้างนอก",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 34,
-      "en": "writing",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈraɪtɪŋ/",
-      "th": "การเขียน",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 35,
-      "en": "telephone",
+      "day": 5,
+      "no": 41,
+      "en": "help",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ˈtelɪfəʊn/",
-      "th": "โทรศัพท์",
+      "ipa": "/help/",
+      "th": "ความช่วยเหลือ; ช่วย",
       "done": false
     },
     {
-      "day": 4,
-      "no": 36,
-      "en": "off",
-      "pos": "adv., prep.",
+      "day": 5,
+      "no": 42,
+      "en": "back",
+      "pos": "adj., adv., n., v.",
       "level": "A1",
-      "ipa": "/ɔːf/",
-      "th": "ปิด, ออกไป",
+      "ipa": "/bæk/",
+      "th": "หลัง, ด้านหลัง; กลับ; สนับสนุน",
       "done": false
     },
     {
-      "day": 4,
-      "no": 37,
-      "en": "actress",
+      "day": 5,
+      "no": 43,
+      "en": "October",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈæktrəs/",
-      "th": "นักแสดงหญิง",
+      "ipa": "/ɑːkˈtəʊbər/",
+      "th": "เดือนตุลาคม",
       "done": false
     },
     {
-      "day": 4,
-      "no": 38,
-      "en": "six",
+      "day": 5,
+      "no": 44,
+      "en": "thirty",
       "pos": "num.",
       "level": "A1",
-      "ipa": "/sɪks/",
-      "th": "หก",
+      "ipa": "/ˈθɜːrti/",
+      "th": "สามสิบ",
       "done": false
     },
     {
-      "day": 4,
-      "no": 39,
-      "en": "must",
-      "pos": "modal",
+      "day": 5,
+      "no": 45,
+      "en": "eleven",
+      "pos": "num.",
       "level": "A1",
-      "ipa": "/məst/",
-      "th": "ต้อง",
+      "ipa": "/ɪˈlevn/",
+      "th": "สิบเอ็ด",
       "done": false
     },
+    {
+      "day": 5,
+      "no": 46,
+      "en": "ready",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ˈredi/",
+      "th": "พร้อม",
+      "done": false
+    },
+    {
+      "day": 5,
+      "no": 47,
+      "en": "singer",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈsɪŋər/",
+      "th": "นักร้อง",
+      "done": false
+    },
+    {
+      "day": 5,
+      "no": 48,
+      "en": "move",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/muːv/",
+      "th": "เคลื่อนที่, ย้าย",
+      "done": false
+    },
+    {
+      "day": 5,
+      "no": 49,
+      "en": "banana",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/bəˈnænə/",
+      "th": "กล้วย",
+      "done": false
+    },
+    {
+      "day": 5,
+      "no": 50,
+      "en": "try",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/traɪ/",
+      "th": "ลอง, พยายาม",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 4,
       "no": 40,
@@ -102,27 +114,15 @@
       "ipa": "/waɪ/",
       "th": "ทำไม",
       "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 3,
-      "no": 22,
-      "en": "true",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/truː/",
-      "th": "จริง",
-      "done": false
     },
     {
-      "day": 1,
-      "no": 10,
-      "en": "weather",
+      "day": 2,
+      "no": 18,
+      "en": "sweater",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈweðər/",
-      "th": "สภาพอากาศ",
+      "ipa": "/ˈswetər/",
+      "th": "เสื้อสเวตเตอร์",
       "done": true
     }
   ]
