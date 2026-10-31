@@ -1,18 +1,110 @@
 {
-  "day": 3,
+  "day": 4,
   "totalDays": 298,
-  "generatedAt": "2026-10-30T15:31:46.188Z",
+  "generatedAt": "2026-10-31T01:12:24.519Z",
   "words": [
     {
-      "day": 3,
-      "no": 21,
-      "en": "little",
-      "pos": "adj., adv., det., pron.",
+      "day": 4,
+      "no": 31,
+      "en": "exciting",
+      "pos": "adj.",
       "level": "A1",
-      "ipa": "/ˈlɪtl/",
-      "th": "เล็ก, นิดหน่อย",
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "th": "น่าตื่นเต้น",
       "done": false
     },
+    {
+      "day": 4,
+      "no": 32,
+      "en": "hello",
+      "pos": "excl., n.",
+      "level": "A1",
+      "ipa": "/həˈləʊ/",
+      "th": "สวัสดี",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 33,
+      "en": "out",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/aʊt/",
+      "th": "ออก, ข้างนอก",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 34,
+      "en": "writing",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈraɪtɪŋ/",
+      "th": "การเขียน",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 35,
+      "en": "telephone",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/ˈtelɪfəʊn/",
+      "th": "โทรศัพท์",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 36,
+      "en": "off",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/ɔːf/",
+      "th": "ปิด, ออกไป",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 37,
+      "en": "actress",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈæktrəs/",
+      "th": "นักแสดงหญิง",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 38,
+      "en": "six",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/sɪks/",
+      "th": "หก",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 39,
+      "en": "must",
+      "pos": "modal",
+      "level": "A1",
+      "ipa": "/məst/",
+      "th": "ต้อง",
+      "done": false
+    },
+    {
+      "day": 4,
+      "no": 40,
+      "en": "why",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "/waɪ/",
+      "th": "ทำไม",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 3,
       "no": 22,
@@ -24,95 +116,13 @@
       "done": false
     },
     {
-      "day": 3,
-      "no": 23,
-      "en": "leave",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/liːv/",
-      "th": "ออกจาก, ทิ้งไว้; การลา",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 24,
-      "en": "again",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/əˈɡen/",
-      "th": "อีกครั้ง",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 25,
-      "en": "chocolate",
+      "day": 1,
+      "no": 10,
+      "en": "weather",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈtʃɔːklət/",
-      "th": "ช็อกโกแลต",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 26,
-      "en": "forget",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/fərˈɡet/",
-      "th": "ลืม",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 27,
-      "en": "rain",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/reɪn/",
-      "th": "ฝน; ฝนตก",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 28,
-      "en": "air",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/er/",
-      "th": "อากาศ",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 29,
-      "en": "potato",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/pəˈteɪtəʊ/",
-      "th": "มันฝรั่ง",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 30,
-      "en": "hard",
-      "pos": "adj., adv.",
-      "level": "A1",
-      "ipa": "/hɑːrd/",
-      "th": "ยาก, แข็ง; อย่างหนัก",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 2,
-      "no": 14,
-      "en": "which",
-      "pos": "det., pron.",
-      "level": "A1",
-      "ipa": "/wɪtʃ/",
-      "th": "อันไหน, ซึ่ง",
+      "ipa": "/ˈweðər/",
+      "th": "สภาพอากาศ",
       "done": true
     }
   ]
