@@ -1,78 +1,110 @@
 {
-  "day": 5,
+  "day": 6,
   "totalDays": 298,
-  "generatedAt": "2026-10-31T21:55:31.467Z",
+  "generatedAt": "2026-11-01T21:11:58.827Z",
   "words": [
     {
-      "day": 5,
-      "no": 41,
-      "en": "help",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/help/",
-      "th": "ความช่วยเหลือ; ช่วย",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 42,
-      "en": "back",
-      "pos": "adj., adv., n., v.",
-      "level": "A1",
-      "ipa": "/bæk/",
-      "th": "หลัง, ด้านหลัง; กลับ; สนับสนุน",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 43,
-      "en": "October",
+      "day": 6,
+      "no": 51,
+      "en": "tree",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ɑːkˈtəʊbər/",
-      "th": "เดือนตุลาคม",
+      "ipa": "/triː/",
+      "th": "ต้นไม้",
       "done": false
     },
     {
-      "day": 5,
-      "no": 44,
-      "en": "thirty",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ˈθɜːrti/",
-      "th": "สามสิบ",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 45,
-      "en": "eleven",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ɪˈlevn/",
-      "th": "สิบเอ็ด",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 46,
-      "en": "ready",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈredi/",
-      "th": "พร้อม",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 47,
-      "en": "singer",
+      "day": 6,
+      "no": 52,
+      "en": "reading",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈsɪŋər/",
-      "th": "นักร้อง",
+      "ipa": "/ˈriːdɪŋ/",
+      "th": "การอ่าน",
       "done": false
     },
+    {
+      "day": 6,
+      "no": 53,
+      "en": "better",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/ˈbetər/",
+      "th": "ดีกว่า",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 54,
+      "en": "animal",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈænɪml/",
+      "th": "สัตว์",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 55,
+      "en": "topic",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈtɑːpɪk/",
+      "th": "หัวข้อ",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 56,
+      "en": "other",
+      "pos": "adj., pron.",
+      "level": "A1",
+      "ipa": "/ˈʌðər/",
+      "th": "อื่นๆ",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 57,
+      "en": "statement",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈsteɪtmənt/",
+      "th": "คำแถลง",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 58,
+      "en": "enjoy",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "th": "สนุก, เพลิดเพลิน",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 59,
+      "en": "library",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈlaɪbreri/",
+      "th": "ห้องสมุด",
+      "done": false
+    },
+    {
+      "day": 6,
+      "no": 60,
+      "en": "January",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈdʒænjueri/",
+      "th": "เดือนมกราคม",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 5,
       "no": 48,
@@ -84,46 +116,14 @@
       "done": false
     },
     {
-      "day": 5,
-      "no": 49,
-      "en": "banana",
-      "pos": "n.",
+      "day": 3,
+      "no": 26,
+      "en": "forget",
+      "pos": "v.",
       "level": "A1",
-      "ipa": "/bəˈnænə/",
-      "th": "กล้วย",
+      "ipa": "/fərˈɡet/",
+      "th": "ลืม",
       "done": false
-    },
-    {
-      "day": 5,
-      "no": 50,
-      "en": "try",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/traɪ/",
-      "th": "ลอง, พยายาม",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 4,
-      "no": 40,
-      "en": "why",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/waɪ/",
-      "th": "ทำไม",
-      "done": false
-    },
-    {
-      "day": 2,
-      "no": 18,
-      "en": "sweater",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈswetər/",
-      "th": "เสื้อสเวตเตอร์",
-      "done": true
     }
   ]
 }
