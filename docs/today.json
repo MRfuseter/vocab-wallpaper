@@ -1,58 +1,110 @@
 {
-  "day": 6,
+  "day": 7,
   "totalDays": 298,
-  "generatedAt": "2026-11-01T23:41:17.125Z",
+  "generatedAt": "2026-11-02T23:53:57.606Z",
   "words": [
     {
-      "day": 6,
-      "no": 51,
-      "en": "tree",
-      "pos": "n.",
+      "day": 7,
+      "no": 61,
+      "en": "market",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/triː/",
-      "th": "ต้นไม้",
+      "ipa": "/ˈmɑːrkɪt/",
+      "th": "ตลาด; ทำการตลาด",
       "done": false
     },
     {
-      "day": 6,
-      "no": 52,
-      "en": "reading",
-      "pos": "n.",
+      "day": 7,
+      "no": 62,
+      "en": "beautiful",
+      "pos": "adj.",
       "level": "A1",
-      "ipa": "/ˈriːdɪŋ/",
-      "th": "การอ่าน",
+      "ipa": "/ˈbjuːtɪfl/",
+      "th": "สวยงาม",
       "done": false
     },
     {
-      "day": 6,
-      "no": 53,
-      "en": "better",
-      "pos": "adj., adv., n.",
+      "day": 7,
+      "no": 63,
+      "en": "do",
+      "pos": "v., aux.",
       "level": "A1",
-      "ipa": "/ˈbetər/",
-      "th": "ดีกว่า",
+      "ipa": "/duː/",
+      "th": "ทำ",
       "done": false
     },
     {
-      "day": 6,
-      "no": 54,
-      "en": "animal",
+      "day": 7,
+      "no": 64,
+      "en": "trousers",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈænɪml/",
-      "th": "สัตว์",
+      "ipa": "/ˈtraʊzərz/",
+      "th": "กางเกงขายาว",
       "done": false
     },
     {
-      "day": 6,
-      "no": 55,
-      "en": "topic",
-      "pos": "n.",
+      "day": 7,
+      "no": 65,
+      "en": "fast",
+      "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/ˈtɑːpɪk/",
-      "th": "หัวข้อ",
+      "ipa": "/fæst/",
+      "th": "เร็ว",
       "done": false
     },
+    {
+      "day": 7,
+      "no": 66,
+      "en": "December",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/dɪˈsembər/",
+      "th": "เดือนธันวาคม",
+      "done": false
+    },
+    {
+      "day": 7,
+      "no": 67,
+      "en": "college",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkɑːlɪdʒ/",
+      "th": "วิทยาลัย",
+      "done": false
+    },
+    {
+      "day": 7,
+      "no": 68,
+      "en": "information",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˌɪnfərˈmeɪʃn/",
+      "th": "ข้อมูล",
+      "done": false
+    },
+    {
+      "day": 7,
+      "no": 69,
+      "en": "event",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɪˈvent/",
+      "th": "เหตุการณ์, งาน",
+      "done": false
+    },
+    {
+      "day": 7,
+      "no": 70,
+      "en": "hi",
+      "pos": "excl.",
+      "level": "A1",
+      "ipa": "/haɪ/",
+      "th": "หวัดดี",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 6,
       "no": 56,
@@ -64,65 +116,13 @@
       "done": false
     },
     {
-      "day": 6,
-      "no": 57,
-      "en": "statement",
+      "day": 4,
+      "no": 34,
+      "en": "writing",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈsteɪtmənt/",
-      "th": "คำแถลง",
-      "done": false
-    },
-    {
-      "day": 6,
-      "no": 58,
-      "en": "enjoy",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/ɪnˈdʒɔɪ/",
-      "th": "สนุก, เพลิดเพลิน",
-      "done": false
-    },
-    {
-      "day": 6,
-      "no": 59,
-      "en": "library",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈlaɪbreri/",
-      "th": "ห้องสมุด",
-      "done": false
-    },
-    {
-      "day": 6,
-      "no": 60,
-      "en": "January",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈdʒænjueri/",
-      "th": "เดือนมกราคม",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 5,
-      "no": 48,
-      "en": "move",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/muːv/",
-      "th": "เคลื่อนที่, ย้าย",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 26,
-      "en": "forget",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/fərˈɡet/",
-      "th": "ลืม",
+      "ipa": "/ˈraɪtɪŋ/",
+      "th": "การเขียน",
       "done": false
     }
   ]
