@@ -1,38 +1,110 @@
 {
-  "day": 7,
+  "day": 8,
   "totalDays": 298,
-  "generatedAt": "2026-11-03T02:26:38.216Z",
+  "generatedAt": "2026-11-03T22:19:03.572Z",
   "words": [
     {
-      "day": 7,
-      "no": 61,
-      "en": "market",
-      "pos": "n., v.",
+      "day": 8,
+      "no": 71,
+      "en": "milk",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈmɑːrkɪt/",
-      "th": "ตลาด; ทำการตลาด",
+      "ipa": "/mɪlk/",
+      "th": "นม",
       "done": false
     },
     {
-      "day": 7,
-      "no": 62,
-      "en": "beautiful",
-      "pos": "adj.",
+      "day": 8,
+      "no": 72,
+      "en": "tea",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈbjuːtɪfl/",
-      "th": "สวยงาม",
+      "ipa": "/tiː/",
+      "th": "ชา",
       "done": false
     },
     {
-      "day": 7,
-      "no": 63,
-      "en": "do",
-      "pos": "v., aux.",
+      "day": 8,
+      "no": 73,
+      "en": "teacher",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/duː/",
-      "th": "ทำ",
+      "ipa": "/ˈtiːtʃər/",
+      "th": "ครู",
       "done": false
     },
+    {
+      "day": 8,
+      "no": 74,
+      "en": "holiday",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈhɑːlədeɪ/",
+      "th": "วันหยุด",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 75,
+      "en": "eye",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/aɪ/",
+      "th": "ตา",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 76,
+      "en": "hear",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/hɪr/",
+      "th": "ได้ยิน",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 77,
+      "en": "dancing",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈdænsɪŋ/",
+      "th": "การเต้นรำ",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 78,
+      "en": "coffee",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkɔːfi/",
+      "th": "กาแฟ",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 79,
+      "en": "fill",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/fɪl/",
+      "th": "เติม, เติมให้เต็ม",
+      "done": false
+    },
+    {
+      "day": 8,
+      "no": 80,
+      "en": "five",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/faɪv/",
+      "th": "ห้า",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 7,
       "no": 64,
@@ -44,86 +116,24 @@
       "done": false
     },
     {
-      "day": 7,
-      "no": 65,
-      "en": "fast",
-      "pos": "adj., adv.",
+      "day": 5,
+      "no": 42,
+      "en": "back",
+      "pos": "adj., adv., n., v.",
       "level": "A1",
-      "ipa": "/fæst/",
-      "th": "เร็ว",
+      "ipa": "/bæk/",
+      "th": "หลัง, ด้านหลัง; กลับ; สนับสนุน",
       "done": false
     },
     {
-      "day": 7,
-      "no": 66,
-      "en": "December",
-      "pos": "n.",
+      "day": 1,
+      "no": 8,
+      "en": "centre",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/dɪˈsembər/",
-      "th": "เดือนธันวาคม",
-      "done": false
-    },
-    {
-      "day": 7,
-      "no": 67,
-      "en": "college",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈkɑːlɪdʒ/",
-      "th": "วิทยาลัย",
-      "done": false
-    },
-    {
-      "day": 7,
-      "no": 68,
-      "en": "information",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˌɪnfərˈmeɪʃn/",
-      "th": "ข้อมูล",
-      "done": false
-    },
-    {
-      "day": 7,
-      "no": 69,
-      "en": "event",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɪˈvent/",
-      "th": "เหตุการณ์, งาน",
-      "done": false
-    },
-    {
-      "day": 7,
-      "no": 70,
-      "en": "hi",
-      "pos": "excl.",
-      "level": "A1",
-      "ipa": "/haɪ/",
-      "th": "หวัดดี",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 6,
-      "no": 56,
-      "en": "other",
-      "pos": "adj., pron.",
-      "level": "A1",
-      "ipa": "/ˈʌðər/",
-      "th": "อื่นๆ",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 34,
-      "en": "writing",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈraɪtɪŋ/",
-      "th": "การเขียน",
-      "done": false
+      "ipa": "/ˈsentər/",
+      "th": "ศูนย์กลาง",
+      "done": true
     }
   ]
 }
