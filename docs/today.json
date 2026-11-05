@@ -1,98 +1,110 @@
 {
-  "day": 9,
+  "day": 10,
   "totalDays": 298,
-  "generatedAt": "2026-11-05T00:56:24.984Z",
+  "generatedAt": "2026-11-05T22:41:58.416Z",
   "words": [
     {
-      "day": 9,
-      "no": 81,
-      "en": "excited",
+      "day": 10,
+      "no": 91,
+      "en": "career",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/kəˈrɪr/",
+      "th": "อาชีพ, เส้นทางอาชีพ",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 92,
+      "en": "have",
+      "pos": "v., aux.",
+      "level": "A1",
+      "ipa": "/həv/",
+      "th": "มี",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 93,
+      "en": "west",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/west/",
+      "th": "ทิศตะวันตก",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 94,
+      "en": "change",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/tʃeɪndʒ/",
+      "th": "การเปลี่ยนแปลง, เงินทอน; เปลี่ยน",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 95,
+      "en": "advice",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ədˈvaɪs/",
+      "th": "คำแนะนำ",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 96,
+      "en": "describe",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/dɪˈskraɪb/",
+      "th": "บรรยาย, อธิบาย",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 97,
+      "en": "book",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/bʊk/",
+      "th": "หนังสือ; จอง",
+      "done": false
+    },
+    {
+      "day": 10,
+      "no": 98,
+      "en": "terrible",
       "pos": "adj.",
       "level": "A1",
-      "ipa": "/ɪkˈsaɪtɪd/",
-      "th": "ตื่นเต้น",
+      "ipa": "/ˈterəbl/",
+      "th": "แย่มาก",
       "done": false
     },
     {
-      "day": 9,
-      "no": 82,
-      "en": "prepare",
-      "pos": "v.",
+      "day": 10,
+      "no": 99,
+      "en": "tomorrow",
+      "pos": "adv., n.",
       "level": "A1",
-      "ipa": "/prɪˈper/",
-      "th": "เตรียม",
+      "ipa": "/təˈmɑːrəʊ/",
+      "th": "พรุ่งนี้",
       "done": false
     },
     {
-      "day": 9,
-      "no": 83,
-      "en": "sing",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/sɪŋ/",
-      "th": "ร้องเพลง",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 84,
-      "en": "July",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/dʒuˈlaɪ/",
-      "th": "เดือนกรกฎาคม",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 85,
-      "en": "cow",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/kaʊ/",
-      "th": "วัว",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 86,
-      "en": "ago",
+      "day": 10,
+      "no": 100,
+      "en": "often",
       "pos": "adv.",
       "level": "A1",
-      "ipa": "/əˈɡəʊ/",
-      "th": "ที่แล้ว (เวลาที่ผ่านมา)",
+      "ipa": "/ˈɔːfn/",
+      "th": "บ่อย",
       "done": false
-    },
-    {
-      "day": 9,
-      "no": 87,
-      "en": "it",
-      "pos": "n., pron.",
-      "level": "A1",
-      "ipa": "/ˌaɪ ˈtiː/",
-      "th": "มัน",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 88,
-      "en": "mouse",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/maʊs/",
-      "th": "หนู, เมาส์",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 89,
-      "en": "winter",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈwɪntər/",
-      "th": "ฤดูหนาว",
-      "done": false
-    },
+    }
+  ],
+  "review": [
     {
       "day": 9,
       "no": 90,
@@ -102,38 +114,26 @@
       "ipa": "/ˈriːzn/",
       "th": "เหตุผล",
       "done": false
-    }
-  ],
-  "review": [
+    },
     {
-      "day": 8,
-      "no": 72,
-      "en": "tea",
+      "day": 7,
+      "no": 68,
+      "en": "information",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/tiː/",
-      "th": "ชา",
+      "ipa": "/ˌɪnfərˈmeɪʃn/",
+      "th": "ข้อมูล",
       "done": false
     },
     {
-      "day": 6,
-      "no": 60,
-      "en": "January",
-      "pos": "n.",
+      "day": 3,
+      "no": 24,
+      "en": "again",
+      "pos": "adv.",
       "level": "A1",
-      "ipa": "/ˈdʒænjueri/",
-      "th": "เดือนมกราคม",
+      "ipa": "/əˈɡen/",
+      "th": "อีกครั้ง",
       "done": false
-    },
-    {
-      "day": 2,
-      "no": 16,
-      "en": "white",
-      "pos": "adj., n.",
-      "level": "A1",
-      "ipa": "/waɪt/",
-      "th": "สีขาว",
-      "done": true
     }
   ]
 }
