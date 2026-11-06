@@ -1,78 +1,110 @@
 {
-  "day": 10,
+  "day": 11,
   "totalDays": 298,
-  "generatedAt": "2026-11-06T00:59:08.188Z",
+  "generatedAt": "2026-11-06T22:08:21.597Z",
   "words": [
     {
-      "day": 10,
-      "no": 91,
-      "en": "career",
+      "day": 11,
+      "no": 101,
+      "en": "parent",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/kəˈrɪr/",
-      "th": "อาชีพ, เส้นทางอาชีพ",
+      "ipa": "/ˈperənt/",
+      "th": "พ่อแม่",
       "done": false
     },
     {
-      "day": 10,
-      "no": 92,
-      "en": "have",
-      "pos": "v., aux.",
-      "level": "A1",
-      "ipa": "/həv/",
-      "th": "มี",
-      "done": false
-    },
-    {
-      "day": 10,
-      "no": 93,
-      "en": "west",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/west/",
-      "th": "ทิศตะวันตก",
-      "done": false
-    },
-    {
-      "day": 10,
-      "no": 94,
-      "en": "change",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/tʃeɪndʒ/",
-      "th": "การเปลี่ยนแปลง, เงินทอน; เปลี่ยน",
-      "done": false
-    },
-    {
-      "day": 10,
-      "no": 95,
-      "en": "advice",
+      "day": 11,
+      "no": 102,
+      "en": "cake",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ədˈvaɪs/",
-      "th": "คำแนะนำ",
+      "ipa": "/keɪk/",
+      "th": "เค้ก",
       "done": false
     },
     {
-      "day": 10,
-      "no": 96,
-      "en": "describe",
-      "pos": "v.",
+      "day": 11,
+      "no": 103,
+      "en": "spelling",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/dɪˈskraɪb/",
-      "th": "บรรยาย, อธิบาย",
+      "ipa": "/ˈspelɪŋ/",
+      "th": "การสะกดคำ",
       "done": false
     },
     {
-      "day": 10,
-      "no": 97,
-      "en": "book",
-      "pos": "n., v.",
+      "day": 11,
+      "no": 104,
+      "en": "horse",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/bʊk/",
-      "th": "หนังสือ; จอง",
+      "ipa": "/hɔːrs/",
+      "th": "ม้า",
       "done": false
     },
+    {
+      "day": 11,
+      "no": 105,
+      "en": "tonight",
+      "pos": "adv., n.",
+      "level": "A1",
+      "ipa": "/təˈnaɪt/",
+      "th": "คืนนี้",
+      "done": false
+    },
+    {
+      "day": 11,
+      "no": 106,
+      "en": "boot",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/buːt/",
+      "th": "รองเท้าบูท",
+      "done": false
+    },
+    {
+      "day": 11,
+      "no": 107,
+      "en": "the",
+      "pos": "article",
+      "level": "A1",
+      "ipa": "/ðə/",
+      "th": "คำนำหน้านามเฉพาะ",
+      "done": false
+    },
+    {
+      "day": 11,
+      "no": 108,
+      "en": "doctor",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈdɑːktər/",
+      "th": "หมอ",
+      "done": false
+    },
+    {
+      "day": 11,
+      "no": 109,
+      "en": "cafe",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/kæˈfeɪ/",
+      "th": "ร้านกาแฟ",
+      "done": false
+    },
+    {
+      "day": 11,
+      "no": 110,
+      "en": "waiter",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈweɪtər/",
+      "th": "บริกร",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 10,
       "no": 98,
@@ -84,55 +116,23 @@
       "done": false
     },
     {
-      "day": 10,
-      "no": 99,
-      "en": "tomorrow",
-      "pos": "adv., n.",
+      "day": 8,
+      "no": 76,
+      "en": "hear",
+      "pos": "v.",
       "level": "A1",
-      "ipa": "/təˈmɑːrəʊ/",
-      "th": "พรุ่งนี้",
+      "ipa": "/hɪr/",
+      "th": "ได้ยิน",
       "done": false
     },
     {
-      "day": 10,
-      "no": 100,
-      "en": "often",
-      "pos": "adv.",
+      "day": 4,
+      "no": 32,
+      "en": "hello",
+      "pos": "excl., n.",
       "level": "A1",
-      "ipa": "/ˈɔːfn/",
-      "th": "บ่อย",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 9,
-      "no": 90,
-      "en": "reason",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈriːzn/",
-      "th": "เหตุผล",
-      "done": false
-    },
-    {
-      "day": 7,
-      "no": 68,
-      "en": "information",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˌɪnfərˈmeɪʃn/",
-      "th": "ข้อมูล",
-      "done": false
-    },
-    {
-      "day": 3,
-      "no": 24,
-      "en": "again",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/əˈɡen/",
-      "th": "อีกครั้ง",
+      "ipa": "/həˈləʊ/",
+      "th": "สวัสดี",
       "done": false
     }
   ]
