@@ -1,58 +1,110 @@
 {
-  "day": 11,
+  "day": 12,
   "totalDays": 298,
-  "generatedAt": "2026-11-07T00:09:11.456Z",
+  "generatedAt": "2026-11-07T20:54:33.351Z",
   "words": [
     {
-      "day": 11,
-      "no": 101,
-      "en": "parent",
+      "day": 12,
+      "no": 111,
+      "en": "dollar",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈperənt/",
-      "th": "พ่อแม่",
+      "ipa": "/ˈdɑːlər/",
+      "th": "ดอลลาร์",
       "done": false
     },
     {
-      "day": 11,
-      "no": 102,
-      "en": "cake",
+      "day": 12,
+      "no": 112,
+      "en": "meaning",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/keɪk/",
-      "th": "เค้ก",
+      "ipa": "/ˈmiːnɪŋ/",
+      "th": "ความหมาย",
       "done": false
     },
     {
-      "day": 11,
-      "no": 103,
-      "en": "spelling",
+      "day": 12,
+      "no": 113,
+      "en": "vacation",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈspelɪŋ/",
-      "th": "การสะกดคำ",
+      "ipa": "/veɪˈkeɪʃn/",
+      "th": "วันหยุดพักร้อน",
       "done": false
     },
     {
-      "day": 11,
-      "no": 104,
-      "en": "horse",
-      "pos": "n.",
+      "day": 12,
+      "no": 114,
+      "en": "together",
+      "pos": "adv.",
       "level": "A1",
-      "ipa": "/hɔːrs/",
-      "th": "ม้า",
+      "ipa": "/təˈɡeðər/",
+      "th": "ด้วยกัน",
       "done": false
     },
     {
-      "day": 11,
-      "no": 105,
-      "en": "tonight",
-      "pos": "adv., n.",
+      "day": 12,
+      "no": 115,
+      "en": "November",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/təˈnaɪt/",
-      "th": "คืนนี้",
+      "ipa": "/nəʊˈvembər/",
+      "th": "เดือนพฤศจิกายน",
       "done": false
     },
+    {
+      "day": 12,
+      "no": 116,
+      "en": "each",
+      "pos": "adv., det., pron.",
+      "level": "A1",
+      "ipa": "/iːtʃ/",
+      "th": "แต่ละ",
+      "done": false
+    },
+    {
+      "day": 12,
+      "no": 117,
+      "en": "sleep",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/sliːp/",
+      "th": "การนอน; นอนหลับ",
+      "done": false
+    },
+    {
+      "day": 12,
+      "no": 118,
+      "en": "tired",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ˈtaɪərd/",
+      "th": "เหนื่อย",
+      "done": false
+    },
+    {
+      "day": 12,
+      "no": 119,
+      "en": "relax",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/rɪˈlæks/",
+      "th": "ผ่อนคลาย",
+      "done": false
+    },
+    {
+      "day": 12,
+      "no": 120,
+      "en": "every",
+      "pos": "det.",
+      "level": "A1",
+      "ipa": "/ˈevri/",
+      "th": "ทุก",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 11,
       "no": 106,
@@ -64,75 +116,23 @@
       "done": false
     },
     {
-      "day": 11,
-      "no": 107,
-      "en": "the",
-      "pos": "article",
-      "level": "A1",
-      "ipa": "/ðə/",
-      "th": "คำนำหน้านามเฉพาะ",
-      "done": false
-    },
-    {
-      "day": 11,
-      "no": 108,
-      "en": "doctor",
+      "day": 9,
+      "no": 84,
+      "en": "July",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈdɑːktər/",
-      "th": "หมอ",
+      "ipa": "/dʒuˈlaɪ/",
+      "th": "เดือนกรกฎาคม",
       "done": false
     },
     {
-      "day": 11,
-      "no": 109,
-      "en": "cafe",
-      "pos": "n.",
+      "day": 5,
+      "no": 50,
+      "en": "try",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/kæˈfeɪ/",
-      "th": "ร้านกาแฟ",
-      "done": false
-    },
-    {
-      "day": 11,
-      "no": 110,
-      "en": "waiter",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈweɪtər/",
-      "th": "บริกร",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 10,
-      "no": 98,
-      "en": "terrible",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈterəbl/",
-      "th": "แย่มาก",
-      "done": false
-    },
-    {
-      "day": 8,
-      "no": 76,
-      "en": "hear",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/hɪr/",
-      "th": "ได้ยิน",
-      "done": false
-    },
-    {
-      "day": 4,
-      "no": 32,
-      "en": "hello",
-      "pos": "excl., n.",
-      "level": "A1",
-      "ipa": "/həˈləʊ/",
-      "th": "สวัสดี",
+      "ipa": "/traɪ/",
+      "th": "ลอง, พยายาม",
       "done": false
     }
   ]
