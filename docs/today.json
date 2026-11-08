@@ -1,38 +1,110 @@
 {
-  "day": 12,
+  "day": 13,
   "totalDays": 298,
-  "generatedAt": "2026-11-07T23:41:19.713Z",
+  "generatedAt": "2026-11-08T21:11:57.760Z",
   "words": [
     {
-      "day": 12,
-      "no": 111,
-      "en": "dollar",
-      "pos": "n.",
+      "day": 13,
+      "no": 121,
+      "en": "what",
+      "pos": "det., pron.",
       "level": "A1",
-      "ipa": "/ˈdɑːlər/",
-      "th": "ดอลลาร์",
+      "ipa": "/wʌt/",
+      "th": "อะไร",
       "done": false
     },
     {
-      "day": 12,
-      "no": 112,
-      "en": "meaning",
+      "day": 13,
+      "no": 122,
+      "en": "meal",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈmiːnɪŋ/",
-      "th": "ความหมาย",
+      "ipa": "/miːl/",
+      "th": "มื้ออาหาร",
       "done": false
     },
     {
-      "day": 12,
-      "no": 113,
-      "en": "vacation",
+      "day": 13,
+      "no": 123,
+      "en": "foot",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/veɪˈkeɪʃn/",
-      "th": "วันหยุดพักร้อน",
+      "ipa": "/fʊt/",
+      "th": "เท้า, ฟุต",
       "done": false
     },
+    {
+      "day": 13,
+      "no": 124,
+      "en": "visit",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/ˈvɪzɪt/",
+      "th": "การเยี่ยม; เยี่ยม",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 125,
+      "en": "type",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/taɪp/",
+      "th": "ประเภท; พิมพ์",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 126,
+      "en": "arm",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɑːrm/",
+      "th": "แขน",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 127,
+      "en": "bill",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/bɪl/",
+      "th": "ใบแจ้งหนี้, บิล",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 128,
+      "en": "number",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/ˈnʌmbər/",
+      "th": "ตัวเลข, จำนวน",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 129,
+      "en": "fifteen",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/ˌfɪfˈtiːn/",
+      "th": "สิบห้า",
+      "done": false
+    },
+    {
+      "day": 13,
+      "no": 130,
+      "en": "dirty",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ˈdɜːrti/",
+      "th": "สกปรก",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 12,
       "no": 114,
@@ -44,95 +116,23 @@
       "done": false
     },
     {
-      "day": 12,
-      "no": 115,
-      "en": "November",
-      "pos": "n.",
+      "day": 10,
+      "no": 92,
+      "en": "have",
+      "pos": "v., aux.",
       "level": "A1",
-      "ipa": "/nəʊˈvembər/",
-      "th": "เดือนพฤศจิกายน",
+      "ipa": "/həv/",
+      "th": "มี",
       "done": false
     },
     {
-      "day": 12,
-      "no": 116,
-      "en": "each",
-      "pos": "adv., det., pron.",
-      "level": "A1",
-      "ipa": "/iːtʃ/",
-      "th": "แต่ละ",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 117,
-      "en": "sleep",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/sliːp/",
-      "th": "การนอน; นอนหลับ",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 118,
-      "en": "tired",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈtaɪərd/",
-      "th": "เหนื่อย",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 119,
-      "en": "relax",
+      "day": 6,
+      "no": 58,
+      "en": "enjoy",
       "pos": "v.",
       "level": "A1",
-      "ipa": "/rɪˈlæks/",
-      "th": "ผ่อนคลาย",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 120,
-      "en": "every",
-      "pos": "det.",
-      "level": "A1",
-      "ipa": "/ˈevri/",
-      "th": "ทุก",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 11,
-      "no": 106,
-      "en": "boot",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/buːt/",
-      "th": "รองเท้าบูท",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 84,
-      "en": "July",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/dʒuˈlaɪ/",
-      "th": "เดือนกรกฎาคม",
-      "done": false
-    },
-    {
-      "day": 5,
-      "no": 50,
-      "en": "try",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/traɪ/",
-      "th": "ลอง, พยายาม",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "th": "สนุก, เพลิดเพลิน",
       "done": false
     }
   ]
