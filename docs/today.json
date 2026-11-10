@@ -1,18 +1,110 @@
 {
-  "day": 13,
+  "day": 14,
   "totalDays": 298,
-  "generatedAt": "2026-11-08T23:48:11.222Z",
+  "generatedAt": "2026-11-10T00:42:28.145Z",
   "words": [
     {
-      "day": 13,
-      "no": 121,
-      "en": "what",
-      "pos": "det., pron.",
+      "day": 14,
+      "no": 131,
+      "en": "hot",
+      "pos": "adj.",
       "level": "A1",
-      "ipa": "/wʌt/",
-      "th": "อะไร",
+      "ipa": "/hɑːt/",
+      "th": "ร้อน, เผ็ด",
       "done": false
     },
+    {
+      "day": 14,
+      "no": 132,
+      "en": "by",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/baɪ/",
+      "th": "โดย, ข้างๆ, ภายใน (เวลา)",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 133,
+      "en": "mother",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈmʌðər/",
+      "th": "แม่",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 134,
+      "en": "online",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "/ˌɑːnˈlaɪn/",
+      "th": "ออนไลน์",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 135,
+      "en": "spell",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/spel/",
+      "th": "สะกด",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 136,
+      "en": "area",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈeriə/",
+      "th": "พื้นที่, บริเวณ",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 137,
+      "en": "below",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/bɪˈləʊ/",
+      "th": "ข้างล่าง, ต่ำกว่า",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 138,
+      "en": "ticket",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈtɪkɪt/",
+      "th": "ตั๋ว",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 139,
+      "en": "yeah",
+      "pos": "excl.",
+      "level": "A1",
+      "ipa": "/jeə/",
+      "th": "ใช่",
+      "done": false
+    },
+    {
+      "day": 14,
+      "no": 140,
+      "en": "die",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/daɪ/",
+      "th": "ตาย",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 13,
       "no": 122,
@@ -24,115 +116,23 @@
       "done": false
     },
     {
-      "day": 13,
-      "no": 123,
-      "en": "foot",
+      "day": 11,
+      "no": 110,
+      "en": "waiter",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/fʊt/",
-      "th": "เท้า, ฟุต",
+      "ipa": "/ˈweɪtər/",
+      "th": "บริกร",
       "done": false
     },
     {
-      "day": 13,
-      "no": 124,
-      "en": "visit",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/ˈvɪzɪt/",
-      "th": "การเยี่ยม; เยี่ยม",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 125,
-      "en": "type",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/taɪp/",
-      "th": "ประเภท; พิมพ์",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 126,
-      "en": "arm",
+      "day": 7,
+      "no": 66,
+      "en": "December",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ɑːrm/",
-      "th": "แขน",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 127,
-      "en": "bill",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/bɪl/",
-      "th": "ใบแจ้งหนี้, บิล",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 128,
-      "en": "number",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/ˈnʌmbər/",
-      "th": "ตัวเลข, จำนวน",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 129,
-      "en": "fifteen",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ˌfɪfˈtiːn/",
-      "th": "สิบห้า",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 130,
-      "en": "dirty",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈdɜːrti/",
-      "th": "สกปรก",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 12,
-      "no": 114,
-      "en": "together",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/təˈɡeðər/",
-      "th": "ด้วยกัน",
-      "done": false
-    },
-    {
-      "day": 10,
-      "no": 92,
-      "en": "have",
-      "pos": "v., aux.",
-      "level": "A1",
-      "ipa": "/həv/",
-      "th": "มี",
-      "done": false
-    },
-    {
-      "day": 6,
-      "no": 58,
-      "en": "enjoy",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/ɪnˈdʒɔɪ/",
-      "th": "สนุก, เพลิดเพลิน",
+      "ipa": "/dɪˈsembər/",
+      "th": "เดือนธันวาคม",
       "done": false
     }
   ]
