@@ -1,78 +1,110 @@
 {
-  "day": 15,
+  "day": 16,
   "totalDays": 298,
-  "generatedAt": "2026-11-11T00:43:27.709Z",
+  "generatedAt": "2026-11-11T23:28:46.356Z",
   "words": [
     {
-      "day": 15,
-      "no": 141,
-      "en": "mountain",
+      "day": 16,
+      "no": 151,
+      "en": "short",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ʃɔːrt/",
+      "th": "สั้น, เตี้ย",
+      "done": false
+    },
+    {
+      "day": 16,
+      "no": 152,
+      "en": "bored",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/bɔːrd/",
+      "th": "เบื่อ",
+      "done": false
+    },
+    {
+      "day": 16,
+      "no": 153,
+      "en": "blog",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈmaʊntn/",
-      "th": "ภูเขา",
+      "ipa": "/blɑːɡ/",
+      "th": "บล็อก",
       "done": false
     },
     {
-      "day": 15,
-      "no": 142,
-      "en": "first",
-      "pos": "adv., det., n., num.",
+      "day": 16,
+      "no": 154,
+      "en": "hey",
+      "pos": "excl.",
       "level": "A1",
-      "ipa": "/fɜːrst/",
-      "th": "แรก, ที่หนึ่ง",
+      "ipa": "/heɪ/",
+      "th": "เฮ้",
       "done": false
     },
     {
-      "day": 15,
-      "no": 143,
-      "en": "upstairs",
+      "day": 16,
+      "no": 155,
+      "en": "fifty",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/ˈfɪfti/",
+      "th": "ห้าสิบ",
+      "done": false
+    },
+    {
+      "day": 16,
+      "no": 156,
+      "en": "meet",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/miːt/",
+      "th": "พบ",
+      "done": false
+    },
+    {
+      "day": 16,
+      "no": 157,
+      "en": "start",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/stɑːrt/",
+      "th": "เริ่ม",
+      "done": false
+    },
+    {
+      "day": 16,
+      "no": 158,
+      "en": "very",
       "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/ˌʌpˈsterz/",
-      "th": "ชั้นบน",
+      "ipa": "/ˈveri/",
+      "th": "มาก",
       "done": false
     },
     {
-      "day": 15,
-      "no": 144,
-      "en": "present",
-      "pos": "adj., n., v.",
+      "day": 16,
+      "no": 159,
+      "en": "photograph",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ˈpreznt/",
-      "th": "ของขวัญ, ปัจจุบัน; นำเสนอ",
+      "ipa": "/ˈfəʊtəɡræf/",
+      "th": "ภาพถ่าย; ถ่ายรูป",
       "done": false
     },
     {
-      "day": 15,
-      "no": 145,
-      "en": "east",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/iːst/",
-      "th": "ทิศตะวันออก",
-      "done": false
-    },
-    {
-      "day": 15,
-      "no": 146,
-      "en": "wine",
+      "day": 16,
+      "no": 160,
+      "en": "bird",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/waɪn/",
-      "th": "ไวน์",
+      "ipa": "/bɜːrd/",
+      "th": "นก",
       "done": false
-    },
-    {
-      "day": 15,
-      "no": 147,
-      "en": "usually",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/ˈjuːʒuəli/",
-      "th": "โดยปกติ",
-      "done": false
-    },
+    }
+  ],
+  "review": [
     {
       "day": 15,
       "no": 148,
@@ -84,55 +116,23 @@
       "done": false
     },
     {
-      "day": 15,
-      "no": 149,
-      "en": "across",
-      "pos": "adv., prep.",
+      "day": 13,
+      "no": 126,
+      "en": "arm",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/əˈkrɔːs/",
-      "th": "ข้าม, ฝั่งตรงข้าม",
+      "ipa": "/ɑːrm/",
+      "th": "แขน",
       "done": false
     },
     {
-      "day": 15,
-      "no": 150,
-      "en": "plane",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/pleɪn/",
-      "th": "เครื่องบิน",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 14,
-      "no": 140,
-      "en": "die",
+      "day": 9,
+      "no": 82,
+      "en": "prepare",
       "pos": "v.",
       "level": "A1",
-      "ipa": "/daɪ/",
-      "th": "ตาย",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 118,
-      "en": "tired",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈtaɪərd/",
-      "th": "เหนื่อย",
-      "done": false
-    },
-    {
-      "day": 8,
-      "no": 74,
-      "en": "holiday",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈhɑːlədeɪ/",
-      "th": "วันหยุด",
+      "ipa": "/prɪˈper/",
+      "th": "เตรียม",
       "done": false
     }
   ]
