@@ -1,58 +1,110 @@
 {
-  "day": 16,
+  "day": 17,
   "totalDays": 298,
-  "generatedAt": "2026-11-12T01:56:23.751Z",
+  "generatedAt": "2026-11-12T22:44:27.833Z",
   "words": [
     {
-      "day": 16,
-      "no": 151,
-      "en": "short",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ʃɔːrt/",
-      "th": "สั้น, เตี้ย",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 152,
-      "en": "bored",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/bɔːrd/",
-      "th": "เบื่อ",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 153,
-      "en": "blog",
+      "day": 17,
+      "no": 161,
+      "en": "festival",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/blɑːɡ/",
-      "th": "บล็อก",
+      "ipa": "/ˈfestɪvl/",
+      "th": "เทศกาล",
       "done": false
     },
     {
-      "day": 16,
-      "no": 154,
-      "en": "hey",
-      "pos": "excl.",
-      "level": "A1",
-      "ipa": "/heɪ/",
-      "th": "เฮ้",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 155,
-      "en": "fifty",
+      "day": 17,
+      "no": 162,
+      "en": "fifth",
       "pos": "num.",
       "level": "A1",
-      "ipa": "/ˈfɪfti/",
-      "th": "ห้าสิบ",
+      "ipa": "/fɪfθ/",
+      "th": "ที่ห้า",
       "done": false
     },
+    {
+      "day": 17,
+      "no": 163,
+      "en": "into",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "/ˈɪntə/",
+      "th": "เข้าไปใน",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 164,
+      "en": "any",
+      "pos": "adv., det., pron.",
+      "level": "A1",
+      "ipa": "/ˈeni/",
+      "th": "ใดๆ, บ้าง",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 165,
+      "en": "mean",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/miːn/",
+      "th": "หมายถึง; ใจร้าย",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 166,
+      "en": "girlfriend",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈɡɜːrlfrend/",
+      "th": "แฟนผู้หญิง",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 167,
+      "en": "ride",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/raɪd/",
+      "th": "การขี่; ขี่",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 168,
+      "en": "list",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/lɪst/",
+      "th": "รายการ; ทำรายการ",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 169,
+      "en": "cannot",
+      "pos": "modal",
+      "level": "A1",
+      "ipa": "/ˈkænɑːt/",
+      "th": "ไม่สามารถ",
+      "done": false
+    },
+    {
+      "day": 17,
+      "no": 170,
+      "en": "expensive",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ɪkˈspensɪv/",
+      "th": "แพง",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 16,
       "no": 156,
@@ -64,75 +116,23 @@
       "done": false
     },
     {
-      "day": 16,
-      "no": 157,
-      "en": "start",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/stɑːrt/",
-      "th": "เริ่ม",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 158,
-      "en": "very",
+      "day": 14,
+      "no": 134,
+      "en": "online",
       "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/ˈveri/",
-      "th": "มาก",
+      "ipa": "/ˌɑːnˈlaɪn/",
+      "th": "ออนไลน์",
       "done": false
     },
     {
-      "day": 16,
-      "no": 159,
-      "en": "photograph",
-      "pos": "n., v.",
+      "day": 10,
+      "no": 100,
+      "en": "often",
+      "pos": "adv.",
       "level": "A1",
-      "ipa": "/ˈfəʊtəɡræf/",
-      "th": "ภาพถ่าย; ถ่ายรูป",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 160,
-      "en": "bird",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/bɜːrd/",
-      "th": "นก",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 15,
-      "no": 148,
-      "en": "cream",
-      "pos": "adj., n.",
-      "level": "A1",
-      "ipa": "/kriːm/",
-      "th": "ครีม; สีครีม",
-      "done": false
-    },
-    {
-      "day": 13,
-      "no": 126,
-      "en": "arm",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɑːrm/",
-      "th": "แขน",
-      "done": false
-    },
-    {
-      "day": 9,
-      "no": 82,
-      "en": "prepare",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/prɪˈper/",
-      "th": "เตรียม",
+      "ipa": "/ˈɔːfn/",
+      "th": "บ่อย",
       "done": false
     }
   ]
