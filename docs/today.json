@@ -1,38 +1,110 @@
 {
-  "day": 17,
+  "day": 18,
   "totalDays": 298,
-  "generatedAt": "2026-11-13T01:12:06.667Z",
+  "generatedAt": "2026-11-13T22:39:31.696Z",
   "words": [
     {
-      "day": 17,
-      "no": 161,
-      "en": "festival",
+      "day": 18,
+      "no": 171,
+      "en": "too",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "/tuː/",
+      "th": "ด้วย, เกินไป",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 172,
+      "en": "get",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/ɡet/",
+      "th": "ได้รับ, ไปถึง, กลายเป็น",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 173,
+      "en": "left",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/left/",
+      "th": "ซ้าย",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 174,
+      "en": "south",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/saʊθ/",
+      "th": "ทิศใต้",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 175,
+      "en": "detail",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/ˈdiːteɪl/",
+      "th": "รายละเอียด",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 176,
+      "en": "form",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/fɔːrm/",
+      "th": "แบบฟอร์ม, รูปแบบ; ก่อตัว",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 177,
+      "en": "group",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈfestɪvl/",
-      "th": "เทศกาล",
+      "ipa": "/ɡruːp/",
+      "th": "กลุ่ม",
       "done": false
     },
     {
-      "day": 17,
-      "no": 162,
-      "en": "fifth",
-      "pos": "num.",
+      "day": 18,
+      "no": 178,
+      "en": "however",
+      "pos": "adv.",
       "level": "A1",
-      "ipa": "/fɪfθ/",
-      "th": "ที่ห้า",
+      "ipa": "/haʊˈevər/",
+      "th": "อย่างไรก็ตาม",
       "done": false
     },
     {
-      "day": 17,
-      "no": 163,
-      "en": "into",
-      "pos": "prep.",
+      "day": 18,
+      "no": 179,
+      "en": "poor",
+      "pos": "adj.",
       "level": "A1",
-      "ipa": "/ˈɪntə/",
-      "th": "เข้าไปใน",
+      "ipa": "/pʊr/",
+      "th": "ยากจน, น่าสงสาร",
       "done": false
     },
+    {
+      "day": 18,
+      "no": 180,
+      "en": "his",
+      "pos": "det., pron.",
+      "level": "A1",
+      "ipa": "/hɪz/",
+      "th": "ของเขา",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 17,
       "no": 164,
@@ -44,95 +116,23 @@
       "done": false
     },
     {
-      "day": 17,
-      "no": 165,
-      "en": "mean",
-      "pos": "v.",
+      "day": 15,
+      "no": 142,
+      "en": "first",
+      "pos": "adv., det., n., num.",
       "level": "A1",
-      "ipa": "/miːn/",
-      "th": "หมายถึง; ใจร้าย",
+      "ipa": "/fɜːrst/",
+      "th": "แรก, ที่หนึ่ง",
       "done": false
     },
     {
-      "day": 17,
-      "no": 166,
-      "en": "girlfriend",
+      "day": 11,
+      "no": 108,
+      "en": "doctor",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈɡɜːrlfrend/",
-      "th": "แฟนผู้หญิง",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 167,
-      "en": "ride",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/raɪd/",
-      "th": "การขี่; ขี่",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 168,
-      "en": "list",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/lɪst/",
-      "th": "รายการ; ทำรายการ",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 169,
-      "en": "cannot",
-      "pos": "modal",
-      "level": "A1",
-      "ipa": "/ˈkænɑːt/",
-      "th": "ไม่สามารถ",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 170,
-      "en": "expensive",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ɪkˈspensɪv/",
-      "th": "แพง",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 16,
-      "no": 156,
-      "en": "meet",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/miːt/",
-      "th": "พบ",
-      "done": false
-    },
-    {
-      "day": 14,
-      "no": 134,
-      "en": "online",
-      "pos": "adj., adv.",
-      "level": "A1",
-      "ipa": "/ˌɑːnˈlaɪn/",
-      "th": "ออนไลน์",
-      "done": false
-    },
-    {
-      "day": 10,
-      "no": 100,
-      "en": "often",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/ˈɔːfn/",
-      "th": "บ่อย",
+      "ipa": "/ˈdɑːktər/",
+      "th": "หมอ",
       "done": false
     }
   ]
