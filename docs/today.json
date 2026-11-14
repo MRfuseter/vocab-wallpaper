@@ -1,18 +1,110 @@
 {
-  "day": 18,
+  "day": 19,
   "totalDays": 298,
-  "generatedAt": "2026-11-14T00:55:17.654Z",
+  "generatedAt": "2026-11-14T21:31:18.984Z",
   "words": [
     {
-      "day": 18,
-      "no": 171,
-      "en": "too",
-      "pos": "adv.",
+      "day": 19,
+      "no": 181,
+      "en": "train",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/tuː/",
-      "th": "ด้วย, เกินไป",
+      "ipa": "/treɪn/",
+      "th": "รถไฟ; ฝึก",
       "done": false
     },
+    {
+      "day": 19,
+      "no": 182,
+      "en": "history",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈhɪstri/",
+      "th": "ประวัติศาสตร์",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 183,
+      "en": "CD",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˌsiː ˈdiː/",
+      "th": "แผ่นซีดี",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 184,
+      "en": "team",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/tiːm/",
+      "th": "ทีม",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 185,
+      "en": "talk",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/tɔːk/",
+      "th": "การพูดคุย; พูดคุย",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 186,
+      "en": "OK",
+      "pos": "adj., adv., excl.",
+      "level": "A1",
+      "ipa": "/əʊˈkeɪ/",
+      "th": "โอเค",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 187,
+      "en": "else",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "/els/",
+      "th": "อื่น",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 188,
+      "en": "where",
+      "pos": "adv., conj.",
+      "level": "A1",
+      "ipa": "/wer/",
+      "th": "ที่ไหน",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 189,
+      "en": "us",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "/əs/",
+      "th": "พวกเรา (กรรม)",
+      "done": false
+    },
+    {
+      "day": 19,
+      "no": 190,
+      "en": "juice",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/dʒuːs/",
+      "th": "น้ำผลไม้",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 18,
       "no": 172,
@@ -24,115 +116,23 @@
       "done": false
     },
     {
-      "day": 18,
-      "no": 173,
-      "en": "left",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/left/",
-      "th": "ซ้าย",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 174,
-      "en": "south",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/saʊθ/",
-      "th": "ทิศใต้",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 175,
-      "en": "detail",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/ˈdiːteɪl/",
-      "th": "รายละเอียด",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 176,
-      "en": "form",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/fɔːrm/",
-      "th": "แบบฟอร์ม, รูปแบบ; ก่อตัว",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 177,
-      "en": "group",
+      "day": 16,
+      "no": 160,
+      "en": "bird",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ɡruːp/",
-      "th": "กลุ่ม",
+      "ipa": "/bɜːrd/",
+      "th": "นก",
       "done": false
     },
     {
-      "day": 18,
-      "no": 178,
-      "en": "however",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/haʊˈevər/",
-      "th": "อย่างไรก็ตาม",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 179,
-      "en": "poor",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/pʊr/",
-      "th": "ยากจน, น่าสงสาร",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 180,
-      "en": "his",
-      "pos": "det., pron.",
-      "level": "A1",
-      "ipa": "/hɪz/",
-      "th": "ของเขา",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 17,
-      "no": 164,
-      "en": "any",
+      "day": 12,
+      "no": 116,
+      "en": "each",
       "pos": "adv., det., pron.",
       "level": "A1",
-      "ipa": "/ˈeni/",
-      "th": "ใดๆ, บ้าง",
-      "done": false
-    },
-    {
-      "day": 15,
-      "no": 142,
-      "en": "first",
-      "pos": "adv., det., n., num.",
-      "level": "A1",
-      "ipa": "/fɜːrst/",
-      "th": "แรก, ที่หนึ่ง",
-      "done": false
-    },
-    {
-      "day": 11,
-      "no": 108,
-      "en": "doctor",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈdɑːktər/",
-      "th": "หมอ",
+      "ipa": "/iːtʃ/",
+      "th": "แต่ละ",
       "done": false
     }
   ]
