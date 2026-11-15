@@ -1,98 +1,110 @@
 {
-  "day": 19,
+  "day": 20,
   "totalDays": 298,
-  "generatedAt": "2026-11-14T23:58:33.874Z",
+  "generatedAt": "2026-11-15T21:50:57.653Z",
   "words": [
     {
-      "day": 19,
-      "no": 181,
-      "en": "train",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/treɪn/",
-      "th": "รถไฟ; ฝึก",
-      "done": false
-    },
-    {
-      "day": 19,
-      "no": 182,
-      "en": "history",
+      "day": 20,
+      "no": 191,
+      "en": "driver",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈhɪstri/",
-      "th": "ประวัติศาสตร์",
+      "ipa": "/ˈdraɪvər/",
+      "th": "คนขับ",
       "done": false
     },
     {
-      "day": 19,
-      "no": 183,
-      "en": "CD",
+      "day": 20,
+      "no": 192,
+      "en": "local",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "/ˈləʊkl/",
+      "th": "ท้องถิ่น",
+      "done": false
+    },
+    {
+      "day": 20,
+      "no": 193,
+      "en": "autumn",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˌsiː ˈdiː/",
-      "th": "แผ่นซีดี",
+      "ipa": "/ˈɔːtəm/",
+      "th": "ฤดูใบไม้ร่วง",
       "done": false
     },
     {
-      "day": 19,
-      "no": 184,
-      "en": "team",
+      "day": 20,
+      "no": 194,
+      "en": "than",
+      "pos": "conj., prep.",
+      "level": "A1",
+      "ipa": "/ðən/",
+      "th": "กว่า",
+      "done": false
+    },
+    {
+      "day": 20,
+      "no": 195,
+      "en": "bye",
+      "pos": "excl.",
+      "level": "A1",
+      "ipa": "/baɪ/",
+      "th": "ลาก่อน, บาย",
+      "done": false
+    },
+    {
+      "day": 20,
+      "no": 196,
+      "en": "believe",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/bɪˈliːv/",
+      "th": "เชื่อ",
+      "done": false
+    },
+    {
+      "day": 20,
+      "no": 197,
+      "en": "delicious",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/dɪˈlɪʃəs/",
+      "th": "อร่อย",
+      "done": false
+    },
+    {
+      "day": 20,
+      "no": 198,
+      "en": "building",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/tiːm/",
-      "th": "ทีม",
+      "ipa": "/ˈbɪldɪŋ/",
+      "th": "อาคาร",
       "done": false
     },
     {
-      "day": 19,
-      "no": 185,
-      "en": "talk",
-      "pos": "n., v.",
+      "day": 20,
+      "no": 199,
+      "en": "special",
+      "pos": "adj.",
       "level": "A1",
-      "ipa": "/tɔːk/",
-      "th": "การพูดคุย; พูดคุย",
+      "ipa": "/ˈspeʃl/",
+      "th": "พิเศษ",
       "done": false
     },
     {
-      "day": 19,
-      "no": 186,
-      "en": "OK",
-      "pos": "adj., adv., excl.",
+      "day": 20,
+      "no": 200,
+      "en": "lose",
+      "pos": "v.",
       "level": "A1",
-      "ipa": "/əʊˈkeɪ/",
-      "th": "โอเค",
+      "ipa": "/luːz/",
+      "th": "ทำหาย, แพ้",
       "done": false
-    },
-    {
-      "day": 19,
-      "no": 187,
-      "en": "else",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/els/",
-      "th": "อื่น",
-      "done": false
-    },
-    {
-      "day": 19,
-      "no": 188,
-      "en": "where",
-      "pos": "adv., conj.",
-      "level": "A1",
-      "ipa": "/wer/",
-      "th": "ที่ไหน",
-      "done": false
-    },
-    {
-      "day": 19,
-      "no": 189,
-      "en": "us",
-      "pos": "pron.",
-      "level": "A1",
-      "ipa": "/əs/",
-      "th": "พวกเรา (กรรม)",
-      "done": false
-    },
+    }
+  ],
+  "review": [
     {
       "day": 19,
       "no": 190,
@@ -102,37 +114,25 @@
       "ipa": "/dʒuːs/",
       "th": "น้ำผลไม้",
       "done": false
-    }
-  ],
-  "review": [
+    },
     {
-      "day": 18,
-      "no": 172,
-      "en": "get",
-      "pos": "v.",
+      "day": 17,
+      "no": 168,
+      "en": "list",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ɡet/",
-      "th": "ได้รับ, ไปถึง, กลายเป็น",
+      "ipa": "/lɪst/",
+      "th": "รายการ; ทำรายการ",
       "done": false
     },
     {
-      "day": 16,
-      "no": 160,
-      "en": "bird",
-      "pos": "n.",
+      "day": 13,
+      "no": 124,
+      "en": "visit",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/bɜːrd/",
-      "th": "นก",
-      "done": false
-    },
-    {
-      "day": 12,
-      "no": 116,
-      "en": "each",
-      "pos": "adv., det., pron.",
-      "level": "A1",
-      "ipa": "/iːtʃ/",
-      "th": "แต่ละ",
+      "ipa": "/ˈvɪzɪt/",
+      "th": "การเยี่ยม; เยี่ยม",
       "done": false
     }
   ]
