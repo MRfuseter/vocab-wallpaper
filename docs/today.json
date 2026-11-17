@@ -1,78 +1,110 @@
 {
-  "day": 20,
+  "day": 21,
   "totalDays": 298,
-  "generatedAt": "2026-11-16T00:00:06.274Z",
+  "generatedAt": "2026-11-17T00:49:27.360Z",
   "words": [
     {
-      "day": 20,
-      "no": 191,
-      "en": "driver",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈdraɪvər/",
-      "th": "คนขับ",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 192,
-      "en": "local",
-      "pos": "adj., n.",
-      "level": "A1",
-      "ipa": "/ˈləʊkl/",
-      "th": "ท้องถิ่น",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 193,
-      "en": "autumn",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈɔːtəm/",
-      "th": "ฤดูใบไม้ร่วง",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 194,
-      "en": "than",
-      "pos": "conj., prep.",
-      "level": "A1",
-      "ipa": "/ðən/",
-      "th": "กว่า",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 195,
-      "en": "bye",
-      "pos": "excl.",
-      "level": "A1",
-      "ipa": "/baɪ/",
-      "th": "ลาก่อน, บาย",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 196,
-      "en": "believe",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/bɪˈliːv/",
-      "th": "เชื่อ",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 197,
-      "en": "delicious",
+      "day": 21,
+      "no": 201,
+      "en": "amazing",
       "pos": "adj.",
       "level": "A1",
-      "ipa": "/dɪˈlɪʃəs/",
-      "th": "อร่อย",
+      "ipa": "/əˈmeɪzɪŋ/",
+      "th": "น่าทึ่ง",
       "done": false
     },
+    {
+      "day": 21,
+      "no": 202,
+      "en": "neighbour",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈneɪbər/",
+      "th": "เพื่อนบ้าน",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 203,
+      "en": "elephant",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈelɪfənt/",
+      "th": "ช้าง",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 204,
+      "en": "website",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈwebsaɪt/",
+      "th": "เว็บไซต์",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 205,
+      "en": "boyfriend",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈbɔɪfrend/",
+      "th": "แฟนผู้ชาย",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 206,
+      "en": "green",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "/ɡriːn/",
+      "th": "สีเขียว",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 207,
+      "en": "message",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈmesɪdʒ/",
+      "th": "ข้อความ",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 208,
+      "en": "nurse",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/nɜːrs/",
+      "th": "พยาบาล",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 209,
+      "en": "example",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɪɡˈzæmpl/",
+      "th": "ตัวอย่าง",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 210,
+      "en": "decide",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/dɪˈsaɪd/",
+      "th": "ตัดสินใจ",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 20,
       "no": 198,
@@ -84,55 +116,23 @@
       "done": false
     },
     {
-      "day": 20,
-      "no": 199,
-      "en": "special",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈspeʃl/",
-      "th": "พิเศษ",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 200,
-      "en": "lose",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/luːz/",
-      "th": "ทำหาย, แพ้",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 19,
-      "no": 190,
-      "en": "juice",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/dʒuːs/",
-      "th": "น้ำผลไม้",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 168,
-      "en": "list",
+      "day": 18,
+      "no": 176,
+      "en": "form",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/lɪst/",
-      "th": "รายการ; ทำรายการ",
+      "ipa": "/fɔːrm/",
+      "th": "แบบฟอร์ม, รูปแบบ; ก่อตัว",
       "done": false
     },
     {
-      "day": 13,
-      "no": 124,
-      "en": "visit",
-      "pos": "n., v.",
+      "day": 14,
+      "no": 132,
+      "en": "by",
+      "pos": "adv., prep.",
       "level": "A1",
-      "ipa": "/ˈvɪzɪt/",
-      "th": "การเยี่ยม; เยี่ยม",
+      "ipa": "/baɪ/",
+      "th": "โดย, ข้างๆ, ภายใน (เวลา)",
       "done": false
     }
   ]
