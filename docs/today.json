@@ -1,58 +1,110 @@
 {
-  "day": 21,
+  "day": 22,
   "totalDays": 298,
-  "generatedAt": "2026-11-17T02:58:48.407Z",
+  "generatedAt": "2026-11-17T23:51:32.427Z",
   "words": [
     {
-      "day": 21,
-      "no": 201,
-      "en": "amazing",
+      "day": 22,
+      "no": 211,
+      "en": "north",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/nɔːrθ/",
+      "th": "ทิศเหนือ",
+      "done": false
+    },
+    {
+      "day": 22,
+      "no": 212,
+      "en": "sell",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/sel/",
+      "th": "ขาย",
+      "done": false
+    },
+    {
+      "day": 22,
+      "no": 213,
+      "en": "big",
       "pos": "adj.",
       "level": "A1",
-      "ipa": "/əˈmeɪzɪŋ/",
-      "th": "น่าทึ่ง",
+      "ipa": "/bɪɡ/",
+      "th": "ใหญ่",
       "done": false
     },
     {
-      "day": 21,
-      "no": 202,
-      "en": "neighbour",
-      "pos": "n.",
+      "day": 22,
+      "no": 214,
+      "en": "take",
+      "pos": "v.",
       "level": "A1",
-      "ipa": "/ˈneɪbər/",
-      "th": "เพื่อนบ้าน",
+      "ipa": "/teɪk/",
+      "th": "เอาไป, ใช้ (เวลา)",
       "done": false
     },
     {
-      "day": 21,
-      "no": 203,
-      "en": "elephant",
+      "day": 22,
+      "no": 215,
+      "en": "police",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈelɪfənt/",
-      "th": "ช้าง",
+      "ipa": "/pəˈliːs/",
+      "th": "ตำรวจ",
       "done": false
     },
     {
-      "day": 21,
-      "no": 204,
-      "en": "website",
-      "pos": "n.",
+      "day": 22,
+      "no": 216,
+      "en": "watch",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ˈwebsaɪt/",
-      "th": "เว็บไซต์",
+      "ipa": "/wɑːtʃ/",
+      "th": "นาฬิกาข้อมือ; ดู",
       "done": false
     },
     {
-      "day": 21,
-      "no": 205,
-      "en": "boyfriend",
+      "day": 22,
+      "no": 217,
+      "en": "town",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈbɔɪfrend/",
-      "th": "แฟนผู้ชาย",
+      "ipa": "/taʊn/",
+      "th": "เมือง",
       "done": false
     },
+    {
+      "day": 22,
+      "no": 218,
+      "en": "style",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/staɪl/",
+      "th": "สไตล์",
+      "done": false
+    },
+    {
+      "day": 22,
+      "no": 219,
+      "en": "band",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/bænd/",
+      "th": "วงดนตรี, แถบ",
+      "done": false
+    },
+    {
+      "day": 22,
+      "no": 220,
+      "en": "interested",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ˈɪntrəstɪd/",
+      "th": "สนใจ",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 21,
       "no": 206,
@@ -64,75 +116,23 @@
       "done": false
     },
     {
-      "day": 21,
-      "no": 207,
-      "en": "message",
+      "day": 19,
+      "no": 184,
+      "en": "team",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈmesɪdʒ/",
-      "th": "ข้อความ",
+      "ipa": "/tiːm/",
+      "th": "ทีม",
       "done": false
     },
     {
-      "day": 21,
-      "no": 208,
-      "en": "nurse",
+      "day": 15,
+      "no": 150,
+      "en": "plane",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/nɜːrs/",
-      "th": "พยาบาล",
-      "done": false
-    },
-    {
-      "day": 21,
-      "no": 209,
-      "en": "example",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɪɡˈzæmpl/",
-      "th": "ตัวอย่าง",
-      "done": false
-    },
-    {
-      "day": 21,
-      "no": 210,
-      "en": "decide",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/dɪˈsaɪd/",
-      "th": "ตัดสินใจ",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 20,
-      "no": 198,
-      "en": "building",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈbɪldɪŋ/",
-      "th": "อาคาร",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 176,
-      "en": "form",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/fɔːrm/",
-      "th": "แบบฟอร์ม, รูปแบบ; ก่อตัว",
-      "done": false
-    },
-    {
-      "day": 14,
-      "no": 132,
-      "en": "by",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/baɪ/",
-      "th": "โดย, ข้างๆ, ภายใน (เวลา)",
+      "ipa": "/pleɪn/",
+      "th": "เครื่องบิน",
       "done": false
     }
   ]
