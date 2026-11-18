@@ -1,38 +1,110 @@
 {
-  "day": 22,
+  "day": 23,
   "totalDays": 298,
-  "generatedAt": "2026-11-18T02:28:48.092Z",
+  "generatedAt": "2026-11-18T23:24:18.012Z",
   "words": [
     {
-      "day": 22,
-      "no": 211,
-      "en": "north",
-      "pos": "adj., adv., n.",
+      "day": 23,
+      "no": 221,
+      "en": "restaurant",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/nɔːrθ/",
-      "th": "ทิศเหนือ",
+      "ipa": "/ˈrestrɑːnt/",
+      "th": "ร้านอาหาร",
       "done": false
     },
     {
-      "day": 22,
-      "no": 212,
-      "en": "sell",
-      "pos": "v.",
+      "day": 23,
+      "no": 222,
+      "en": "on",
+      "pos": "adv., prep.",
       "level": "A1",
-      "ipa": "/sel/",
-      "th": "ขาย",
+      "ipa": "/ɑːn/",
+      "th": "บน",
       "done": false
     },
     {
-      "day": 22,
-      "no": 213,
-      "en": "big",
-      "pos": "adj.",
+      "day": 23,
+      "no": 223,
+      "en": "midnight",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/bɪɡ/",
-      "th": "ใหญ่",
+      "ipa": "/ˈmɪdnaɪt/",
+      "th": "เที่ยงคืน",
       "done": false
     },
+    {
+      "day": 23,
+      "no": 224,
+      "en": "kitchen",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkɪtʃɪn/",
+      "th": "ห้องครัว",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 225,
+      "en": "exam",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɪɡˈzæm/",
+      "th": "การสอบ",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 226,
+      "en": "thousand",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/ˈθaʊznd/",
+      "th": "พัน",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 227,
+      "en": "quarter",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkwɔːrtər/",
+      "th": "หนึ่งในสี่, ไตรมาส",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 228,
+      "en": "behind",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/bɪˈhaɪnd/",
+      "th": "ข้างหลัง",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 229,
+      "en": "member",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈmembər/",
+      "th": "สมาชิก",
+      "done": false
+    },
+    {
+      "day": 23,
+      "no": 230,
+      "en": "dialogue",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈdaɪəlɔːɡ/",
+      "th": "บทสนทนา",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 22,
       "no": 214,
@@ -44,95 +116,23 @@
       "done": false
     },
     {
-      "day": 22,
-      "no": 215,
-      "en": "police",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/pəˈliːs/",
-      "th": "ตำรวจ",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 216,
-      "en": "watch",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/wɑːtʃ/",
-      "th": "นาฬิกาข้อมือ; ดู",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 217,
-      "en": "town",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/taʊn/",
-      "th": "เมือง",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 218,
-      "en": "style",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/staɪl/",
-      "th": "สไตล์",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 219,
-      "en": "band",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/bænd/",
-      "th": "วงดนตรี, แถบ",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 220,
-      "en": "interested",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈɪntrəstɪd/",
-      "th": "สนใจ",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 21,
-      "no": 206,
-      "en": "green",
+      "day": 20,
+      "no": 192,
+      "en": "local",
       "pos": "adj., n.",
       "level": "A1",
-      "ipa": "/ɡriːn/",
-      "th": "สีเขียว",
+      "ipa": "/ˈləʊkl/",
+      "th": "ท้องถิ่น",
       "done": false
     },
     {
-      "day": 19,
-      "no": 184,
-      "en": "team",
-      "pos": "n.",
+      "day": 16,
+      "no": 158,
+      "en": "very",
+      "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/tiːm/",
-      "th": "ทีม",
-      "done": false
-    },
-    {
-      "day": 15,
-      "no": 150,
-      "en": "plane",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/pleɪn/",
-      "th": "เครื่องบิน",
+      "ipa": "/ˈveri/",
+      "th": "มาก",
       "done": false
     }
   ]
