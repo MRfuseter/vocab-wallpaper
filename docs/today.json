@@ -1,18 +1,110 @@
 {
-  "day": 23,
+  "day": 24,
   "totalDays": 298,
-  "generatedAt": "2026-11-19T01:55:16.904Z",
+  "generatedAt": "2026-11-19T23:36:06.567Z",
   "words": [
     {
-      "day": 23,
-      "no": 221,
-      "en": "restaurant",
-      "pos": "n.",
+      "day": 24,
+      "no": 231,
+      "en": "sorry",
+      "pos": "adj., excl.",
       "level": "A1",
-      "ipa": "/ˈrestrɑːnt/",
-      "th": "ร้านอาหาร",
+      "ipa": "/ˈsɑːri/",
+      "th": "ขอโทษ, เสียใจ",
       "done": false
     },
+    {
+      "day": 24,
+      "no": 232,
+      "en": "room",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ruːm/",
+      "th": "ห้อง",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 233,
+      "en": "both",
+      "pos": "det., pron.",
+      "level": "A1",
+      "ipa": "/bəʊθ/",
+      "th": "ทั้งสอง",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 234,
+      "en": "glass",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɡlæs/",
+      "th": "แก้ว, กระจก",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 235,
+      "en": "park",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/pɑːrk/",
+      "th": "สวนสาธารณะ; จอดรถ",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 236,
+      "en": "need",
+      "pos": "n., v., modal",
+      "level": "A1",
+      "ipa": "/niːd/",
+      "th": "ความต้องการ; ต้องการ",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 237,
+      "en": "for",
+      "pos": "prep.",
+      "level": "A1",
+      "ipa": "/fər/",
+      "th": "สำหรับ, เป็นเวลา",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 238,
+      "en": "cook",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/kʊk/",
+      "th": "พ่อครัว; ทำอาหาร",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 239,
+      "en": "sometimes",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "th": "บางครั้ง",
+      "done": false
+    },
+    {
+      "day": 24,
+      "no": 240,
+      "en": "our",
+      "pos": "det.",
+      "level": "A1",
+      "ipa": "/ɑːr/",
+      "th": "ของเรา",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 23,
       "no": 222,
@@ -24,115 +116,23 @@
       "done": false
     },
     {
-      "day": 23,
-      "no": 223,
-      "en": "midnight",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈmɪdnaɪt/",
-      "th": "เที่ยงคืน",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 224,
-      "en": "kitchen",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈkɪtʃɪn/",
-      "th": "ห้องครัว",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 225,
-      "en": "exam",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɪɡˈzæm/",
-      "th": "การสอบ",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 226,
-      "en": "thousand",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ˈθaʊznd/",
-      "th": "พัน",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 227,
-      "en": "quarter",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈkwɔːrtər/",
-      "th": "หนึ่งในสี่, ไตรมาส",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 228,
-      "en": "behind",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/bɪˈhaɪnd/",
-      "th": "ข้างหลัง",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 229,
-      "en": "member",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈmembər/",
-      "th": "สมาชิก",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 230,
-      "en": "dialogue",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈdaɪəlɔːɡ/",
-      "th": "บทสนทนา",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 22,
-      "no": 214,
-      "en": "take",
+      "day": 21,
+      "no": 210,
+      "en": "decide",
       "pos": "v.",
       "level": "A1",
-      "ipa": "/teɪk/",
-      "th": "เอาไป, ใช้ (เวลา)",
+      "ipa": "/dɪˈsaɪd/",
+      "th": "ตัดสินใจ",
       "done": false
     },
     {
-      "day": 20,
-      "no": 192,
-      "en": "local",
-      "pos": "adj., n.",
+      "day": 17,
+      "no": 166,
+      "en": "girlfriend",
+      "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈləʊkl/",
-      "th": "ท้องถิ่น",
-      "done": false
-    },
-    {
-      "day": 16,
-      "no": 158,
-      "en": "very",
-      "pos": "adj., adv.",
-      "level": "A1",
-      "ipa": "/ˈveri/",
-      "th": "มาก",
+      "ipa": "/ˈɡɜːrlfrend/",
+      "th": "แฟนผู้หญิง",
       "done": false
     }
   ]
