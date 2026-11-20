@@ -1,98 +1,110 @@
 {
-  "day": 24,
+  "day": 25,
   "totalDays": 298,
-  "generatedAt": "2026-11-20T01:49:45.630Z",
+  "generatedAt": "2026-11-20T23:06:19.713Z",
   "words": [
     {
-      "day": 24,
-      "no": 231,
-      "en": "sorry",
-      "pos": "adj., excl.",
+      "day": 25,
+      "no": 241,
+      "en": "through",
+      "pos": "adv., prep.",
       "level": "A1",
-      "ipa": "/ˈsɑːri/",
-      "th": "ขอโทษ, เสียใจ",
+      "ipa": "/θruː/",
+      "th": "ผ่าน",
       "done": false
     },
     {
-      "day": 24,
-      "no": 232,
-      "en": "room",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ruːm/",
-      "th": "ห้อง",
-      "done": false
-    },
-    {
-      "day": 24,
-      "no": 233,
-      "en": "both",
+      "day": 25,
+      "no": 242,
+      "en": "her",
       "pos": "det., pron.",
       "level": "A1",
-      "ipa": "/bəʊθ/",
-      "th": "ทั้งสอง",
+      "ipa": "/hər/",
+      "th": "เธอ, ของเธอ",
       "done": false
     },
     {
-      "day": 24,
-      "no": 234,
-      "en": "glass",
+      "day": 25,
+      "no": 243,
+      "en": "map",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/mæp/",
+      "th": "แผนที่",
+      "done": false
+    },
+    {
+      "day": 25,
+      "no": 244,
+      "en": "reader",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ɡlæs/",
-      "th": "แก้ว, กระจก",
+      "ipa": "/ˈriːdər/",
+      "th": "ผู้อ่าน",
       "done": false
     },
     {
-      "day": 24,
-      "no": 235,
-      "en": "park",
+      "day": 25,
+      "no": 245,
+      "en": "lie",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/pɑːrk/",
-      "th": "สวนสาธารณะ; จอดรถ",
+      "ipa": "/laɪ/",
+      "th": "การโกหก; โกหก, นอน",
       "done": false
     },
     {
-      "day": 24,
-      "no": 236,
-      "en": "need",
-      "pos": "n., v., modal",
+      "day": 25,
+      "no": 246,
+      "en": "adult",
+      "pos": "adj., n.",
       "level": "A1",
-      "ipa": "/niːd/",
-      "th": "ความต้องการ; ต้องการ",
+      "ipa": "/əˈdʌlt/",
+      "th": "ผู้ใหญ่",
       "done": false
     },
     {
-      "day": 24,
-      "no": 237,
-      "en": "for",
-      "pos": "prep.",
-      "level": "A1",
-      "ipa": "/fər/",
-      "th": "สำหรับ, เป็นเวลา",
-      "done": false
-    },
-    {
-      "day": 24,
-      "no": 238,
-      "en": "cook",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/kʊk/",
-      "th": "พ่อครัว; ทำอาหาร",
-      "done": false
-    },
-    {
-      "day": 24,
-      "no": 239,
-      "en": "sometimes",
+      "day": 25,
+      "no": 247,
+      "en": "ever",
       "pos": "adv.",
       "level": "A1",
-      "ipa": "/ˈsʌmtaɪmz/",
-      "th": "บางครั้ง",
+      "ipa": "/ˈevər/",
+      "th": "เคย",
       "done": false
     },
+    {
+      "day": 25,
+      "no": 248,
+      "en": "before",
+      "pos": "adv., conj., prep.",
+      "level": "A1",
+      "ipa": "/bɪˈfɔːr/",
+      "th": "ก่อน",
+      "done": false
+    },
+    {
+      "day": 25,
+      "no": 249,
+      "en": "programme",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈprəʊɡræm/",
+      "th": "รายการ, โครงการ",
+      "done": false
+    },
+    {
+      "day": 25,
+      "no": 250,
+      "en": "piano",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/piˈænəʊ/",
+      "th": "เปียโน",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 24,
       "no": 240,
@@ -102,37 +114,25 @@
       "ipa": "/ɑːr/",
       "th": "ของเรา",
       "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 23,
-      "no": 222,
-      "en": "on",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/ɑːn/",
-      "th": "บน",
-      "done": false
     },
     {
-      "day": 21,
-      "no": 210,
-      "en": "decide",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/dɪˈsaɪd/",
-      "th": "ตัดสินใจ",
-      "done": false
-    },
-    {
-      "day": 17,
-      "no": 166,
-      "en": "girlfriend",
+      "day": 22,
+      "no": 218,
+      "en": "style",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈɡɜːrlfrend/",
-      "th": "แฟนผู้หญิง",
+      "ipa": "/staɪl/",
+      "th": "สไตล์",
+      "done": false
+    },
+    {
+      "day": 18,
+      "no": 174,
+      "en": "south",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/saʊθ/",
+      "th": "ทิศใต้",
       "done": false
     }
   ]
