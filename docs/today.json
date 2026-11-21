@@ -1,78 +1,110 @@
 {
-  "day": 25,
+  "day": 26,
   "totalDays": 298,
-  "generatedAt": "2026-11-21T01:36:03.978Z",
+  "generatedAt": "2026-11-21T22:11:56.129Z",
   "words": [
     {
-      "day": 25,
-      "no": 241,
-      "en": "through",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/θruː/",
-      "th": "ผ่าน",
-      "done": false
-    },
-    {
-      "day": 25,
-      "no": 242,
-      "en": "her",
-      "pos": "det., pron.",
-      "level": "A1",
-      "ipa": "/hər/",
-      "th": "เธอ, ของเธอ",
-      "done": false
-    },
-    {
-      "day": 25,
-      "no": 243,
-      "en": "map",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/mæp/",
-      "th": "แผนที่",
-      "done": false
-    },
-    {
-      "day": 25,
-      "no": 244,
-      "en": "reader",
+      "day": 26,
+      "no": 251,
+      "en": "lesson",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈriːdər/",
-      "th": "ผู้อ่าน",
+      "ipa": "/ˈlesn/",
+      "th": "บทเรียน",
       "done": false
     },
     {
-      "day": 25,
-      "no": 245,
-      "en": "lie",
+      "day": 26,
+      "no": 252,
+      "en": "yesterday",
+      "pos": "adv., n.",
+      "level": "A1",
+      "ipa": "/ˈjestərdeɪ/",
+      "th": "เมื่อวาน",
+      "done": false
+    },
+    {
+      "day": 26,
+      "no": 253,
+      "en": "picture",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/laɪ/",
-      "th": "การโกหก; โกหก, นอน",
+      "ipa": "/ˈpɪktʃər/",
+      "th": "รูปภาพ",
       "done": false
     },
     {
-      "day": 25,
-      "no": 246,
-      "en": "adult",
+      "day": 26,
+      "no": 254,
+      "en": "newspaper",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈnuːzpeɪpər/",
+      "th": "หนังสือพิมพ์",
+      "done": false
+    },
+    {
+      "day": 26,
+      "no": 255,
+      "en": "well",
+      "pos": "adj., adv., excl.",
+      "level": "A1",
+      "ipa": "/wel/",
+      "th": "ดี; สบายดี; บ่อน้ำ",
+      "done": false
+    },
+    {
+      "day": 26,
+      "no": 256,
+      "en": "funny",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ˈfʌni/",
+      "th": "ตลก",
+      "done": false
+    },
+    {
+      "day": 26,
+      "no": 257,
+      "en": "grey",
       "pos": "adj., n.",
       "level": "A1",
-      "ipa": "/əˈdʌlt/",
-      "th": "ผู้ใหญ่",
+      "ipa": "/ɡreɪ/",
+      "th": "สีเทา",
       "done": false
     },
     {
-      "day": 25,
-      "no": 247,
-      "en": "ever",
-      "pos": "adv.",
+      "day": 26,
+      "no": 258,
+      "en": "everything",
+      "pos": "pron.",
       "level": "A1",
-      "ipa": "/ˈevər/",
-      "th": "เคย",
+      "ipa": "/ˈevriθɪŋ/",
+      "th": "ทุกสิ่ง",
       "done": false
     },
+    {
+      "day": 26,
+      "no": 259,
+      "en": "also",
+      "pos": "adv.",
+      "level": "A1",
+      "ipa": "/ˈɔːlsəʊ/",
+      "th": "ด้วย, เช่นกัน",
+      "done": false
+    },
+    {
+      "day": 26,
+      "no": 260,
+      "en": "concert",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkɑːnsərt/",
+      "th": "คอนเสิร์ต",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 25,
       "no": 248,
@@ -84,55 +116,23 @@
       "done": false
     },
     {
-      "day": 25,
-      "no": 249,
-      "en": "programme",
-      "pos": "n.",
+      "day": 23,
+      "no": 226,
+      "en": "thousand",
+      "pos": "num.",
       "level": "A1",
-      "ipa": "/ˈprəʊɡræm/",
-      "th": "รายการ, โครงการ",
+      "ipa": "/ˈθaʊznd/",
+      "th": "พัน",
       "done": false
     },
     {
-      "day": 25,
-      "no": 250,
-      "en": "piano",
+      "day": 19,
+      "no": 182,
+      "en": "history",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/piˈænəʊ/",
-      "th": "เปียโน",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 24,
-      "no": 240,
-      "en": "our",
-      "pos": "det.",
-      "level": "A1",
-      "ipa": "/ɑːr/",
-      "th": "ของเรา",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 218,
-      "en": "style",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/staɪl/",
-      "th": "สไตล์",
-      "done": false
-    },
-    {
-      "day": 18,
-      "no": 174,
-      "en": "south",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/saʊθ/",
-      "th": "ทิศใต้",
+      "ipa": "/ˈhɪstri/",
+      "th": "ประวัติศาสตร์",
       "done": false
     }
   ]
