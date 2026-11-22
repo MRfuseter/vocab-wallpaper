@@ -1,58 +1,110 @@
 {
-  "day": 26,
+  "day": 27,
   "totalDays": 298,
-  "generatedAt": "2026-11-22T00:25:41.977Z",
+  "generatedAt": "2026-11-22T22:28:30.259Z",
   "words": [
     {
-      "day": 26,
-      "no": 251,
-      "en": "lesson",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈlesn/",
-      "th": "บทเรียน",
-      "done": false
-    },
-    {
-      "day": 26,
-      "no": 252,
-      "en": "yesterday",
-      "pos": "adv., n.",
-      "level": "A1",
-      "ipa": "/ˈjestərdeɪ/",
-      "th": "เมื่อวาน",
-      "done": false
-    },
-    {
-      "day": 26,
-      "no": 253,
-      "en": "picture",
+      "day": 27,
+      "no": 261,
+      "en": "spring",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ˈpɪktʃər/",
-      "th": "รูปภาพ",
+      "ipa": "/sprɪŋ/",
+      "th": "ฤดูใบไม้ผลิ, สปริง",
       "done": false
     },
     {
-      "day": 26,
-      "no": 254,
-      "en": "newspaper",
+      "day": 27,
+      "no": 262,
+      "en": "computer",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈnuːzpeɪpər/",
-      "th": "หนังสือพิมพ์",
+      "ipa": "/kəmˈpjuːtər/",
+      "th": "คอมพิวเตอร์",
       "done": false
     },
     {
-      "day": 26,
-      "no": 255,
-      "en": "well",
-      "pos": "adj., adv., excl.",
+      "day": 27,
+      "no": 263,
+      "en": "when",
+      "pos": "adv., conj., pron.",
       "level": "A1",
-      "ipa": "/wel/",
-      "th": "ดี; สบายดี; บ่อน้ำ",
+      "ipa": "/wen/",
+      "th": "เมื่อไร, เมื่อ",
       "done": false
     },
+    {
+      "day": 27,
+      "no": 264,
+      "en": "woman",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈwʊmən/",
+      "th": "ผู้หญิง",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 265,
+      "en": "cooking",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkʊkɪŋ/",
+      "th": "การทำอาหาร",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 266,
+      "en": "improve",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/ɪmˈpruːv/",
+      "th": "ปรับปรุง, พัฒนา",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 267,
+      "en": "march",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/mɑːrtʃ/",
+      "th": "การเดินขบวน (March = เดือนมีนาคม)",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 268,
+      "en": "match",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/mætʃ/",
+      "th": "การแข่งขัน, ไม้ขีด; เข้ากัน",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 269,
+      "en": "old",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/əʊld/",
+      "th": "เก่า, แก่",
+      "done": false
+    },
+    {
+      "day": 27,
+      "no": 270,
+      "en": "important",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/ɪmˈpɔːrtnt/",
+      "th": "สำคัญ",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 26,
       "no": 256,
@@ -64,75 +116,23 @@
       "done": false
     },
     {
-      "day": 26,
-      "no": 257,
-      "en": "grey",
-      "pos": "adj., n.",
-      "level": "A1",
-      "ipa": "/ɡreɪ/",
-      "th": "สีเทา",
-      "done": false
-    },
-    {
-      "day": 26,
-      "no": 258,
-      "en": "everything",
-      "pos": "pron.",
-      "level": "A1",
-      "ipa": "/ˈevriθɪŋ/",
-      "th": "ทุกสิ่ง",
-      "done": false
-    },
-    {
-      "day": 26,
-      "no": 259,
-      "en": "also",
-      "pos": "adv.",
-      "level": "A1",
-      "ipa": "/ˈɔːlsəʊ/",
-      "th": "ด้วย, เช่นกัน",
-      "done": false
-    },
-    {
-      "day": 26,
-      "no": 260,
-      "en": "concert",
+      "day": 24,
+      "no": 234,
+      "en": "glass",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈkɑːnsərt/",
-      "th": "คอนเสิร์ต",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 25,
-      "no": 248,
-      "en": "before",
-      "pos": "adv., conj., prep.",
-      "level": "A1",
-      "ipa": "/bɪˈfɔːr/",
-      "th": "ก่อน",
+      "ipa": "/ɡlæs/",
+      "th": "แก้ว, กระจก",
       "done": false
     },
     {
-      "day": 23,
-      "no": 226,
-      "en": "thousand",
-      "pos": "num.",
+      "day": 20,
+      "no": 200,
+      "en": "lose",
+      "pos": "v.",
       "level": "A1",
-      "ipa": "/ˈθaʊznd/",
-      "th": "พัน",
-      "done": false
-    },
-    {
-      "day": 19,
-      "no": 182,
-      "en": "history",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈhɪstri/",
-      "th": "ประวัติศาสตร์",
+      "ipa": "/luːz/",
+      "th": "ทำหาย, แพ้",
       "done": false
     }
   ]
