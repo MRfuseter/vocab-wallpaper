@@ -1,38 +1,110 @@
 {
-  "day": 27,
+  "day": 28,
   "totalDays": 298,
-  "generatedAt": "2026-11-23T00:57:53.642Z",
+  "generatedAt": "2026-11-24T03:20:28.223Z",
   "words": [
     {
-      "day": 27,
-      "no": 261,
-      "en": "spring",
+      "day": 28,
+      "no": 271,
+      "en": "introduce",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/ˌɪntrəˈduːs/",
+      "th": "แนะนำ",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 272,
+      "en": "model",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/sprɪŋ/",
-      "th": "ฤดูใบไม้ผลิ, สปริง",
+      "ipa": "/ˈmɑːdl/",
+      "th": "นางแบบ, แบบจำลอง",
       "done": false
     },
     {
-      "day": 27,
-      "no": 262,
-      "en": "computer",
+      "day": 28,
+      "no": 273,
+      "en": "cinema",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/kəmˈpjuːtər/",
-      "th": "คอมพิวเตอร์",
+      "ipa": "/ˈsɪnəmə/",
+      "th": "โรงภาพยนตร์",
       "done": false
     },
     {
-      "day": 27,
-      "no": 263,
-      "en": "when",
-      "pos": "adv., conj., pron.",
+      "day": 28,
+      "no": 274,
+      "en": "routine",
+      "pos": "adj., n.",
       "level": "A1",
-      "ipa": "/wen/",
-      "th": "เมื่อไร, เมื่อ",
+      "ipa": "/ruːˈtiːn/",
+      "th": "กิจวัตร",
       "done": false
     },
+    {
+      "day": 28,
+      "no": 275,
+      "en": "hundred",
+      "pos": "num.",
+      "level": "A1",
+      "ipa": "/ˈhʌndrəd/",
+      "th": "ร้อย",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 276,
+      "en": "lot",
+      "pos": "adv., det., pron.",
+      "level": "A1",
+      "ipa": "/lɑːt/",
+      "th": "มาก (a lot)",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 277,
+      "en": "game",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ɡeɪm/",
+      "th": "เกม",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 278,
+      "en": "high",
+      "pos": "adj., adv., n.",
+      "level": "A1",
+      "ipa": "/haɪ/",
+      "th": "สูง",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 279,
+      "en": "something",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "/ˈsʌmθɪŋ/",
+      "th": "บางสิ่ง",
+      "done": false
+    },
+    {
+      "day": 28,
+      "no": 280,
+      "en": "nothing",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "/ˈnʌθɪŋ/",
+      "th": "ไม่มีอะไร",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 27,
       "no": 264,
@@ -44,95 +116,23 @@
       "done": false
     },
     {
-      "day": 27,
-      "no": 265,
-      "en": "cooking",
+      "day": 25,
+      "no": 242,
+      "en": "her",
+      "pos": "det., pron.",
+      "level": "A1",
+      "ipa": "/hər/",
+      "th": "เธอ, ของเธอ",
+      "done": false
+    },
+    {
+      "day": 21,
+      "no": 208,
+      "en": "nurse",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈkʊkɪŋ/",
-      "th": "การทำอาหาร",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 266,
-      "en": "improve",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/ɪmˈpruːv/",
-      "th": "ปรับปรุง, พัฒนา",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 267,
-      "en": "march",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/mɑːrtʃ/",
-      "th": "การเดินขบวน (March = เดือนมีนาคม)",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 268,
-      "en": "match",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/mætʃ/",
-      "th": "การแข่งขัน, ไม้ขีด; เข้ากัน",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 269,
-      "en": "old",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/əʊld/",
-      "th": "เก่า, แก่",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 270,
-      "en": "important",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ɪmˈpɔːrtnt/",
-      "th": "สำคัญ",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 26,
-      "no": 256,
-      "en": "funny",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/ˈfʌni/",
-      "th": "ตลก",
-      "done": false
-    },
-    {
-      "day": 24,
-      "no": 234,
-      "en": "glass",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɡlæs/",
-      "th": "แก้ว, กระจก",
-      "done": false
-    },
-    {
-      "day": 20,
-      "no": 200,
-      "en": "lose",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/luːz/",
-      "th": "ทำหาย, แพ้",
+      "ipa": "/nɜːrs/",
+      "th": "พยาบาล",
       "done": false
     }
   ]
