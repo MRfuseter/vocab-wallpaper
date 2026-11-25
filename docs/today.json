@@ -1,18 +1,110 @@
 {
-  "day": 28,
+  "day": 29,
   "totalDays": 298,
-  "generatedAt": "2026-11-24T04:50:47.732Z",
+  "generatedAt": "2026-11-25T01:26:32.125Z",
   "words": [
     {
-      "day": 28,
-      "no": 271,
-      "en": "introduce",
-      "pos": "v.",
+      "day": 29,
+      "no": 281,
+      "en": "seven",
+      "pos": "num.",
       "level": "A1",
-      "ipa": "/ˌɪntrəˈduːs/",
-      "th": "แนะนำ",
+      "ipa": "/ˈsevn/",
+      "th": "เจ็ด",
       "done": false
     },
+    {
+      "day": 29,
+      "no": 282,
+      "en": "in",
+      "pos": "adv., prep.",
+      "level": "A1",
+      "ipa": "/ɪn/",
+      "th": "ใน",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 283,
+      "en": "clothes",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/kləʊðz/",
+      "th": "เสื้อผ้า",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 284,
+      "en": "somebody",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "/ˈsʌmbədi/",
+      "th": "ใครบางคน",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 285,
+      "en": "fly",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/flaɪ/",
+      "th": "แมลงวัน; บิน",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 286,
+      "en": "table",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈteɪbl/",
+      "th": "โต๊ะ, ตาราง",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 287,
+      "en": "bag",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/bæɡ/",
+      "th": "กระเป๋า, ถุง",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 288,
+      "en": "no",
+      "pos": "det., excl.",
+      "level": "A1",
+      "ipa": "/nəʊ/",
+      "th": "ไม่",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 289,
+      "en": "create",
+      "pos": "v.",
+      "level": "A1",
+      "ipa": "/kriˈeɪt/",
+      "th": "สร้าง",
+      "done": false
+    },
+    {
+      "day": 29,
+      "no": 290,
+      "en": "house",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/haʊs/",
+      "th": "บ้าน",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 28,
       "no": 272,
@@ -24,115 +116,23 @@
       "done": false
     },
     {
-      "day": 28,
-      "no": 273,
-      "en": "cinema",
+      "day": 26,
+      "no": 260,
+      "en": "concert",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈsɪnəmə/",
-      "th": "โรงภาพยนตร์",
+      "ipa": "/ˈkɑːnsərt/",
+      "th": "คอนเสิร์ต",
       "done": false
     },
     {
-      "day": 28,
-      "no": 274,
-      "en": "routine",
-      "pos": "adj., n.",
+      "day": 22,
+      "no": 216,
+      "en": "watch",
+      "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ruːˈtiːn/",
-      "th": "กิจวัตร",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 275,
-      "en": "hundred",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ˈhʌndrəd/",
-      "th": "ร้อย",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 276,
-      "en": "lot",
-      "pos": "adv., det., pron.",
-      "level": "A1",
-      "ipa": "/lɑːt/",
-      "th": "มาก (a lot)",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 277,
-      "en": "game",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ɡeɪm/",
-      "th": "เกม",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 278,
-      "en": "high",
-      "pos": "adj., adv., n.",
-      "level": "A1",
-      "ipa": "/haɪ/",
-      "th": "สูง",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 279,
-      "en": "something",
-      "pos": "pron.",
-      "level": "A1",
-      "ipa": "/ˈsʌmθɪŋ/",
-      "th": "บางสิ่ง",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 280,
-      "en": "nothing",
-      "pos": "pron.",
-      "level": "A1",
-      "ipa": "/ˈnʌθɪŋ/",
-      "th": "ไม่มีอะไร",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 27,
-      "no": 264,
-      "en": "woman",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈwʊmən/",
-      "th": "ผู้หญิง",
-      "done": false
-    },
-    {
-      "day": 25,
-      "no": 242,
-      "en": "her",
-      "pos": "det., pron.",
-      "level": "A1",
-      "ipa": "/hər/",
-      "th": "เธอ, ของเธอ",
-      "done": false
-    },
-    {
-      "day": 21,
-      "no": 208,
-      "en": "nurse",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/nɜːrs/",
-      "th": "พยาบาล",
+      "ipa": "/wɑːtʃ/",
+      "th": "นาฬิกาข้อมือ; ดู",
       "done": false
     }
   ]
