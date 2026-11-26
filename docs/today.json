@@ -1,98 +1,110 @@
 {
-  "day": 29,
+  "day": 30,
   "totalDays": 298,
-  "generatedAt": "2026-11-25T03:35:07.604Z",
+  "generatedAt": "2026-11-26T01:00:09.306Z",
   "words": [
     {
-      "day": 29,
-      "no": 281,
-      "en": "seven",
-      "pos": "num.",
-      "level": "A1",
-      "ipa": "/ˈsevn/",
-      "th": "เจ็ด",
-      "done": false
-    },
-    {
-      "day": 29,
-      "no": 282,
-      "en": "in",
-      "pos": "adv., prep.",
-      "level": "A1",
-      "ipa": "/ɪn/",
-      "th": "ใน",
-      "done": false
-    },
-    {
-      "day": 29,
-      "no": 283,
-      "en": "clothes",
+      "day": 30,
+      "no": 291,
+      "en": "internet",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/kləʊðz/",
-      "th": "เสื้อผ้า",
+      "ipa": "/ˈɪntərnet/",
+      "th": "อินเทอร์เน็ต",
       "done": false
     },
     {
-      "day": 29,
-      "no": 284,
-      "en": "somebody",
+      "day": 30,
+      "no": 292,
+      "en": "breakfast",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈbrekfəst/",
+      "th": "อาหารเช้า",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 293,
+      "en": "same",
+      "pos": "adj., adv., pron.",
+      "level": "A1",
+      "ipa": "/seɪm/",
+      "th": "เหมือนกัน",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 294,
+      "en": "late",
+      "pos": "adj., adv.",
+      "level": "A1",
+      "ipa": "/leɪt/",
+      "th": "สาย, ดึก",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 295,
+      "en": "anything",
       "pos": "pron.",
       "level": "A1",
-      "ipa": "/ˈsʌmbədi/",
-      "th": "ใครบางคน",
+      "ipa": "/ˈeniθɪŋ/",
+      "th": "อะไรก็ได้, อะไรบ้าง",
       "done": false
     },
     {
-      "day": 29,
-      "no": 285,
-      "en": "fly",
+      "day": 30,
+      "no": 296,
+      "en": "weekend",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈwiːkend/",
+      "th": "สุดสัปดาห์",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 297,
+      "en": "snake",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/sneɪk/",
+      "th": "งู",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 298,
+      "en": "airport",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈerpɔːrt/",
+      "th": "สนามบิน",
+      "done": false
+    },
+    {
+      "day": 30,
+      "no": 299,
+      "en": "finish",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/flaɪ/",
-      "th": "แมลงวัน; บิน",
+      "ipa": "/ˈfɪnɪʃ/",
+      "th": "จบ, ทำเสร็จ",
       "done": false
     },
     {
-      "day": 29,
-      "no": 286,
-      "en": "table",
+      "day": 30,
+      "no": 300,
+      "en": "metre",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈteɪbl/",
-      "th": "โต๊ะ, ตาราง",
+      "ipa": "/ˈmiːtər/",
+      "th": "เมตร",
       "done": false
-    },
-    {
-      "day": 29,
-      "no": 287,
-      "en": "bag",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/bæɡ/",
-      "th": "กระเป๋า, ถุง",
-      "done": false
-    },
-    {
-      "day": 29,
-      "no": 288,
-      "en": "no",
-      "pos": "det., excl.",
-      "level": "A1",
-      "ipa": "/nəʊ/",
-      "th": "ไม่",
-      "done": false
-    },
-    {
-      "day": 29,
-      "no": 289,
-      "en": "create",
-      "pos": "v.",
-      "level": "A1",
-      "ipa": "/kriˈeɪt/",
-      "th": "สร้าง",
-      "done": false
-    },
+    }
+  ],
+  "review": [
     {
       "day": 29,
       "no": 290,
@@ -102,37 +114,25 @@
       "ipa": "/haʊs/",
       "th": "บ้าน",
       "done": false
-    }
-  ],
-  "review": [
+    },
     {
-      "day": 28,
-      "no": 272,
-      "en": "model",
+      "day": 27,
+      "no": 268,
+      "en": "match",
       "pos": "n., v.",
       "level": "A1",
-      "ipa": "/ˈmɑːdl/",
-      "th": "นางแบบ, แบบจำลอง",
+      "ipa": "/mætʃ/",
+      "th": "การแข่งขัน, ไม้ขีด; เข้ากัน",
       "done": false
     },
     {
-      "day": 26,
-      "no": 260,
-      "en": "concert",
+      "day": 23,
+      "no": 224,
+      "en": "kitchen",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈkɑːnsərt/",
-      "th": "คอนเสิร์ต",
-      "done": false
-    },
-    {
-      "day": 22,
-      "no": 216,
-      "en": "watch",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/wɑːtʃ/",
-      "th": "นาฬิกาข้อมือ; ดู",
+      "ipa": "/ˈkɪtʃɪn/",
+      "th": "ห้องครัว",
       "done": false
     }
   ]
