@@ -1,78 +1,110 @@
 {
-  "day": 30,
+  "day": 31,
   "totalDays": 298,
-  "generatedAt": "2026-11-26T02:54:33.457Z",
+  "generatedAt": "2026-11-27T01:00:38.570Z",
   "words": [
     {
-      "day": 30,
-      "no": 291,
-      "en": "internet",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈɪntərnet/",
-      "th": "อินเทอร์เน็ต",
-      "done": false
-    },
-    {
-      "day": 30,
-      "no": 292,
-      "en": "breakfast",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈbrekfəst/",
-      "th": "อาหารเช้า",
-      "done": false
-    },
-    {
-      "day": 30,
-      "no": 293,
-      "en": "same",
-      "pos": "adj., adv., pron.",
-      "level": "A1",
-      "ipa": "/seɪm/",
-      "th": "เหมือนกัน",
-      "done": false
-    },
-    {
-      "day": 30,
-      "no": 294,
-      "en": "late",
+      "day": 31,
+      "no": 301,
+      "en": "even",
       "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/leɪt/",
-      "th": "สาย, ดึก",
+      "ipa": "/ˈiːvn/",
+      "th": "แม้แต่; เรียบ, เลขคู่",
       "done": false
     },
     {
-      "day": 30,
-      "no": 295,
-      "en": "anything",
-      "pos": "pron.",
+      "day": 31,
+      "no": 302,
+      "en": "after",
+      "pos": "adv., conj., prep.",
       "level": "A1",
-      "ipa": "/ˈeniθɪŋ/",
-      "th": "อะไรก็ได้, อะไรบ้าง",
+      "ipa": "/ˈæftər/",
+      "th": "หลังจาก",
       "done": false
     },
     {
-      "day": 30,
-      "no": 296,
-      "en": "weekend",
+      "day": 31,
+      "no": 303,
+      "en": "strong",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/strɔːŋ/",
+      "th": "แข็งแรง",
+      "done": false
+    },
+    {
+      "day": 31,
+      "no": 304,
+      "en": "cup",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈwiːkend/",
-      "th": "สุดสัปดาห์",
+      "ipa": "/kʌp/",
+      "th": "ถ้วย",
       "done": false
     },
     {
-      "day": 30,
-      "no": 297,
-      "en": "snake",
+      "day": 31,
+      "no": 305,
+      "en": "bath",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/sneɪk/",
-      "th": "งู",
+      "ipa": "/bæθ/",
+      "th": "อ่างอาบน้ำ, การอาบน้ำ",
       "done": false
     },
+    {
+      "day": 31,
+      "no": 306,
+      "en": "shirt",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ʃɜːrt/",
+      "th": "เสื้อเชิ้ต",
+      "done": false
+    },
+    {
+      "day": 31,
+      "no": 307,
+      "en": "country",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈkʌntri/",
+      "th": "ประเทศ, ชนบท",
+      "done": false
+    },
+    {
+      "day": 31,
+      "no": 308,
+      "en": "negative",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "/ˈneɡətɪv/",
+      "th": "ทางลบ",
+      "done": false
+    },
+    {
+      "day": 31,
+      "no": 309,
+      "en": "story",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈstɔːri/",
+      "th": "เรื่องราว",
+      "done": false
+    },
+    {
+      "day": 31,
+      "no": 310,
+      "en": "bad",
+      "pos": "adj.",
+      "level": "A1",
+      "ipa": "/bæd/",
+      "th": "ไม่ดี, เลว",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 30,
       "no": 298,
@@ -84,55 +116,23 @@
       "done": false
     },
     {
-      "day": 30,
-      "no": 299,
-      "en": "finish",
-      "pos": "n., v.",
+      "day": 28,
+      "no": 276,
+      "en": "lot",
+      "pos": "adv., det., pron.",
       "level": "A1",
-      "ipa": "/ˈfɪnɪʃ/",
-      "th": "จบ, ทำเสร็จ",
+      "ipa": "/lɑːt/",
+      "th": "มาก (a lot)",
       "done": false
     },
     {
-      "day": 30,
-      "no": 300,
-      "en": "metre",
+      "day": 24,
+      "no": 232,
+      "en": "room",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈmiːtər/",
-      "th": "เมตร",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 29,
-      "no": 290,
-      "en": "house",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/haʊs/",
-      "th": "บ้าน",
-      "done": false
-    },
-    {
-      "day": 27,
-      "no": 268,
-      "en": "match",
-      "pos": "n., v.",
-      "level": "A1",
-      "ipa": "/mætʃ/",
-      "th": "การแข่งขัน, ไม้ขีด; เข้ากัน",
-      "done": false
-    },
-    {
-      "day": 23,
-      "no": 224,
-      "en": "kitchen",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈkɪtʃɪn/",
-      "th": "ห้องครัว",
+      "ipa": "/ruːm/",
+      "th": "ห้อง",
       "done": false
     }
   ]
