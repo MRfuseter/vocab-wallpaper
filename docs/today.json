@@ -1,58 +1,110 @@
 {
-  "day": 31,
+  "day": 32,
   "totalDays": 298,
-  "generatedAt": "2026-11-27T02:55:54.692Z",
+  "generatedAt": "2026-11-28T00:33:02.739Z",
   "words": [
     {
-      "day": 31,
-      "no": 301,
-      "en": "even",
+      "day": 32,
+      "no": 311,
+      "en": "drive",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/draɪv/",
+      "th": "การขับรถ; ขับ",
+      "done": false
+    },
+    {
+      "day": 32,
+      "no": 312,
+      "en": "phrase",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/freɪz/",
+      "th": "วลี",
+      "done": false
+    },
+    {
+      "day": 32,
+      "no": 313,
+      "en": "early",
       "pos": "adj., adv.",
       "level": "A1",
-      "ipa": "/ˈiːvn/",
-      "th": "แม้แต่; เรียบ, เลขคู่",
+      "ipa": "/ˈɜːrli/",
+      "th": "เช้า, แต่เนิ่นๆ",
       "done": false
     },
     {
-      "day": 31,
-      "no": 302,
-      "en": "after",
-      "pos": "adv., conj., prep.",
+      "day": 32,
+      "no": 314,
+      "en": "between",
+      "pos": "adv., prep.",
       "level": "A1",
-      "ipa": "/ˈæftər/",
-      "th": "หลังจาก",
+      "ipa": "/bɪˈtwiːn/",
+      "th": "ระหว่าง",
       "done": false
     },
     {
-      "day": 31,
-      "no": 303,
-      "en": "strong",
-      "pos": "adj.",
+      "day": 32,
+      "no": 315,
+      "en": "they",
+      "pos": "pron.",
       "level": "A1",
-      "ipa": "/strɔːŋ/",
-      "th": "แข็งแรง",
+      "ipa": "/ðeɪ/",
+      "th": "พวกเขา",
       "done": false
     },
     {
-      "day": 31,
-      "no": 304,
-      "en": "cup",
+      "day": 32,
+      "no": 316,
+      "en": "cut",
+      "pos": "n., v.",
+      "level": "A1",
+      "ipa": "/kʌt/",
+      "th": "การตัด, แผล; ตัด",
+      "done": false
+    },
+    {
+      "day": 32,
+      "no": 317,
+      "en": "nose",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/kʌp/",
-      "th": "ถ้วย",
+      "ipa": "/nəʊz/",
+      "th": "จมูก",
       "done": false
     },
     {
-      "day": 31,
-      "no": 305,
-      "en": "bath",
-      "pos": "n.",
+      "day": 32,
+      "no": 318,
+      "en": "eight",
+      "pos": "num.",
       "level": "A1",
-      "ipa": "/bæθ/",
-      "th": "อ่างอาบน้ำ, การอาบน้ำ",
+      "ipa": "/eɪt/",
+      "th": "แปด",
       "done": false
     },
+    {
+      "day": 32,
+      "no": 319,
+      "en": "family",
+      "pos": "adj., n.",
+      "level": "A1",
+      "ipa": "/ˈfæməli/",
+      "th": "ครอบครัว",
+      "done": false
+    },
+    {
+      "day": 32,
+      "no": 320,
+      "en": "scientist",
+      "pos": "n.",
+      "level": "A1",
+      "ipa": "/ˈsaɪəntɪst/",
+      "th": "นักวิทยาศาสตร์",
+      "done": false
+    }
+  ],
+  "review": [
     {
       "day": 31,
       "no": 306,
@@ -64,75 +116,23 @@
       "done": false
     },
     {
-      "day": 31,
-      "no": 307,
-      "en": "country",
+      "day": 29,
+      "no": 284,
+      "en": "somebody",
+      "pos": "pron.",
+      "level": "A1",
+      "ipa": "/ˈsʌmbədi/",
+      "th": "ใครบางคน",
+      "done": false
+    },
+    {
+      "day": 25,
+      "no": 250,
+      "en": "piano",
       "pos": "n.",
       "level": "A1",
-      "ipa": "/ˈkʌntri/",
-      "th": "ประเทศ, ชนบท",
-      "done": false
-    },
-    {
-      "day": 31,
-      "no": 308,
-      "en": "negative",
-      "pos": "adj., n.",
-      "level": "A1",
-      "ipa": "/ˈneɡətɪv/",
-      "th": "ทางลบ",
-      "done": false
-    },
-    {
-      "day": 31,
-      "no": 309,
-      "en": "story",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈstɔːri/",
-      "th": "เรื่องราว",
-      "done": false
-    },
-    {
-      "day": 31,
-      "no": 310,
-      "en": "bad",
-      "pos": "adj.",
-      "level": "A1",
-      "ipa": "/bæd/",
-      "th": "ไม่ดี, เลว",
-      "done": false
-    }
-  ],
-  "review": [
-    {
-      "day": 30,
-      "no": 298,
-      "en": "airport",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ˈerpɔːrt/",
-      "th": "สนามบิน",
-      "done": false
-    },
-    {
-      "day": 28,
-      "no": 276,
-      "en": "lot",
-      "pos": "adv., det., pron.",
-      "level": "A1",
-      "ipa": "/lɑːt/",
-      "th": "มาก (a lot)",
-      "done": false
-    },
-    {
-      "day": 24,
-      "no": 232,
-      "en": "room",
-      "pos": "n.",
-      "level": "A1",
-      "ipa": "/ruːm/",
-      "th": "ห้อง",
+      "ipa": "/piˈænəʊ/",
+      "th": "เปียโน",
       "done": false
     }
   ]
